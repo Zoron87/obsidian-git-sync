@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+                "file": "Csharp/Base Csharp/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+                "file": "Csharp/Base Csharp/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md"
+                "file": "Csharp/Base Csharp/Без названия.md"
               }
             }
           },
@@ -174,10 +174,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d692cf5d14a217aa",
+  "active": "107db22f4840737e",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Без названия.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+    "Csharp/Base Csharp/Без названия.md",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
     "Csharp/Base Csharp/Стек (Stack).md",
