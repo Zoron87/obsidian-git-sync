@@ -1,0 +1,9 @@
+{
+  "focusNewTab": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_inbox",
+  "attachmentFolderPath": "_resource/_files",
+  "showFrontmatter": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true
+}
