@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Что такое Csharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Что такое Csharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Что такое Csharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md"
+                "file": "Csharp/Base Csharp/Что такое Csharp.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,13 +174,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "107db22f4840737e",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/1111.md",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
-    "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "_resource/_files/location-time.jpg",
@@ -207,7 +207,7 @@
     "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Вопросы на самопроверку/Что такое наследование.md",
-    "Csharp/Вопросы на самопроверку/Что такое Csharp.md",
+    "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Вопросы на самопроверку/Какая разница между vaue type и reference type.md",
     "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
