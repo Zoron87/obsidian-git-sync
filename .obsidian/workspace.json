@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое Csharp.md",
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое Csharp.md",
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое Csharp.md"
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md"
               }
             }
           },
@@ -174,8 +174,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "d692cf5d14a217aa",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
     "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
@@ -208,7 +209,6 @@
     "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Вопросы на самопроверку/Что такое наследование.md",
-    "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Вопросы на самопроверку/Какая разница между vaue type и reference type.md",
     "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
@@ -221,7 +221,6 @@
     "Интересные задачи/Javascript",
     "Интересные задачи/Csharp",
     "Интересные задачи",
-    "Javascript",
     "_inbox/Без названия.canvas"
   ]
 }
