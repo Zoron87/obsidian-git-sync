@@ -22,6 +22,24 @@
         ]
       },
       {
+        "id": "56dac8302a88e2d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d455fdc5a7f4e51a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "356cc3cac6bdca5a",
         "type": "tabs",
         "children": [
@@ -174,7 +192,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d692cf5d14a217aa",
+  "active": "d455fdc5a7f4e51a",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Что такое Csharp.md",
