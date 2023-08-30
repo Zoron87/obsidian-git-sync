@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/1111.md"
+                "file": "Csharp/Base Csharp/Деструктор.md"
               }
             }
           },
@@ -180,7 +180,7 @@
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
     "Csharp/Base Csharp/Стек (Stack).md",
-    "Csharp/Base Csharp/1111.md",
+    "Csharp/Base Csharp/Деструктор.md",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
     "Csharp/Base Csharp/Структура (struct).md",
