@@ -2,3 +2,5 @@
 
 Small Objects Heap (SOH) < 85000 байт
 Large Object Heap (LOH) >= 85000 байт (Им сразу устанавливается 2 поколение). Проверить поколение объекта **GC.GetGeneration(obj)**
+
+Поколение 0: 256К
