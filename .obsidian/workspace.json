@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "36e8238b770f2f1f",
+        "id": "356cc3cac6bdca5a",
         "type": "tabs",
         "children": [
           {
-            "id": "107db22f4840737e",
+            "id": "e4fe1d2b131fcba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое Csharp.md",
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d692cf5d14a217aa",
+  "active": "e4fe1d2b131fcba0",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
