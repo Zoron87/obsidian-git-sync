@@ -22,24 +22,6 @@
         ]
       },
       {
-        "id": "56dac8302a88e2d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d455fdc5a7f4e51a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "356cc3cac6bdca5a",
         "type": "tabs",
         "children": [
@@ -121,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md"
+                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md"
               }
             }
           },
@@ -192,13 +174,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d455fdc5a7f4e51a",
+  "active": "e4fe1d2b131fcba0",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Деструктор.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
     "Csharp/Base Csharp/Стек (Stack).md",
-    "Csharp/Base Csharp/Деструктор.md",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
     "Csharp/Base Csharp/Структура (struct).md",
