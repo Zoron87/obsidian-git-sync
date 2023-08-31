@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
+                "file": "Csharp/Base Csharp/Структура (struct).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
+                "file": "Csharp/Base Csharp/Структура (struct).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
+                "file": "Csharp/Base Csharp/Структура (struct).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md"
+                "file": "Csharp/Base Csharp/Структура (struct).md"
               }
             }
           },
@@ -155,8 +155,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,13 +175,14 @@
   },
   "active": "d692cf5d14a217aa",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Стек (Stack).md",
+    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+    "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Base Csharp/Деструктор.md",
     "_inbox/Без названия 1.md",
     "_inbox/Без названия.md",
-    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
-    "Csharp/Base Csharp/Стек (Stack).md",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
     "Csharp/Base Csharp/Структура (struct).md",
@@ -215,7 +215,6 @@
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Clean Code",
     "Javascript/Cle",
-    "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Вопросы на самопроверку",
     "Csharp/Подготовка к собеседованиям/Резюме",
     "_inbox/Тестовая заметка.md",
