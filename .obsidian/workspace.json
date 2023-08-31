@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md"
+                "file": "_inbox/Вопросы по Csharp, которые задают на собеседовании.md"
               }
             }
           },
@@ -176,8 +176,10 @@
   },
   "active": "d692cf5d14a217aa",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Деструктор.md",
+    "_inbox/Без названия 1.md",
+    "_inbox/Без названия.md",
+    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Алгоритмы и структуры данных",
     "Csharp/Base Csharp/Стек (Stack).md",
@@ -192,7 +194,6 @@
     "_resource/_files/Solid-L.png",
     "_resource/_files/Solid-O.png",
     "_resource/_files/Solid-S.png",
-    "_inbox/Без названия.md",
     "Csharp/Вопросы на самопроверку/Что такое Entity Framework.md",
     "Интересные задачи/Csharp/Что выведет программа - enum.md",
     "Интересные задачи/Csharp/Что выведет программа - location - time.md",
