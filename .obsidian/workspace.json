@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md"
+                "file": "Csharp/Base Csharp/Деструктор.md"
               }
             }
           },
@@ -174,7 +174,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e4fe1d2b131fcba0",
+  "active": "d692cf5d14a217aa",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Деструктор.md",
