@@ -4,33 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "12fbe1fb8e099796",
+        "id": "aed6419682498e2a",
         "type": "tabs",
         "children": [
           {
-            "id": "d692cf5d14a217aa",
+            "id": "97cab42c0d542b2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "356cc3cac6bdca5a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4fe1d2b131fcba0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -132,10 +114,98 @@
             }
           },
           {
+            "id": "cb0708c1dcc0d3cb",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "d692cf5d14a217aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Структура (struct).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "23f3c2788eb6bac9",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1809c063fa6bf684",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "0938419b6cf023b7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           },
@@ -147,11 +217,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 408.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,11 +236,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d692cf5d14a217aa",
+  "active": "1809c063fa6bf684",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Структура (struct).md",
-    "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+    "Csharp/Base Csharp/Стек (Stack).md",
     "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Base Csharp/Деструктор.md",
     "_inbox/Без названия 1.md",
