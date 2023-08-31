@@ -11,8 +11,12 @@
             "id": "97cab42c0d542b2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md"
+              }
             }
           },
           {
@@ -173,6 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,7 +246,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "1809c063fa6bf684",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
