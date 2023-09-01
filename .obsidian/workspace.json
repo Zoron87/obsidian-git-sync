@@ -15,7 +15,7 @@
               "state": {
                 "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "97cab42c0d542b2b",
   "lastOpenFiles": [
+    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Base Csharp/Структура (struct).md",
@@ -232,7 +234,6 @@
     "Интересные задачи/Csharp/Что выведет программа - enum.md",
     "Интересные задачи/Csharp/Что выведет программа - location - time.md",
     "_resource/_templates",
-    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "_resource",
     "Интересные задачи/Csharp/Что выведет программа enum-byte.md",
     "_resource/_files/delegate.jpg",
@@ -240,7 +241,6 @@
     "_resource/_files/enum-byte.jpg",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое обработка исключений в Csharp. Как она работает..md",
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Вопросы на самопроверку/Что такое наследование.md",

@@ -6,5 +6,5 @@
   "showFrontmatter": true,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "showLineNumber": true
+  "showLineNumber": false
 }
