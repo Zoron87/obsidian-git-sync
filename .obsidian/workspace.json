@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd344a66446abd1f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,7 +207,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "fd344a66446abd1f",
+  "active": "97cab42c0d542b2b",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Деструктор.md",
