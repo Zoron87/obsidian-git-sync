@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md"
+                "file": "Csharp/Base Csharp/Сигнатура метода.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,8 +209,9 @@
   },
   "active": "97cab42c0d542b2b",
   "lastOpenFiles": [
-    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+    "Csharp/Base Csharp/Сигнатура метода.md",
+    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Base Csharp/Структура (struct).md",
@@ -251,7 +252,6 @@
     "Javascript/Cle",
     "Csharp/Вопросы на самопроверку",
     "Csharp/Подготовка к собеседованиям/Резюме",
-    "_inbox/Тестовая заметка.md",
     "Интересные задачи/Javascript",
     "Интересные задачи/Csharp",
     "Интересные задачи",
