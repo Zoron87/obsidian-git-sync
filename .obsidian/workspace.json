@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8d019beec893a397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099f8432874adf9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,11 +207,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 557.5
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +225,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "97cab42c0d542b2b",
+  "active": "099f8432874adf9a",
   "lastOpenFiles": [
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
