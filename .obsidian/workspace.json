@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md",
+                "file": "Csharp/Base Csharp/null.md",
                 "mode": "source",
                 "source": true
               }
@@ -45,7 +45,7 @@
               "type": "markdown",
               "state": {
                 "file": "Csharp/Base Csharp/Оператор null объединения.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md",
+                "file": "Csharp/Base Csharp/null.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md",
+                "file": "Csharp/Base Csharp/null.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md"
+                "file": "Csharp/Base Csharp/null.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md",
+                "file": "Csharp/Base Csharp/null.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,11 +238,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "34232c54ac7e386a",
+  "active": "9a95a62a911bb13a",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Оператор null объединения.md",
+    "Csharp/Base Csharp/null.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Csharp/Base Csharp/Перегрузка метода.md",
-    "Csharp/Base Csharp/Оператор null объединения.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
@@ -272,7 +273,6 @@
     "Интересные задачи/Csharp/Что выведет программа enum-byte.md",
     "_resource/_files/delegate.jpg",
     "_resource/_files/enum-250.jpg",
-    "_resource/_files/enum-byte.jpg",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое обработка исключений в Csharp. Как она работает..md",
     "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
