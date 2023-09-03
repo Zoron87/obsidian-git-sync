@@ -18,6 +18,18 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9a95a62a911bb13a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Перегрузка метода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -225,10 +237,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "099f8432874adf9a",
+  "active": "97cab42c0d542b2b",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+    "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
+    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Что такое Csharp.md",
@@ -238,7 +251,6 @@
     "Csharp/Base Csharp/Деструктор.md",
     "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "_inbox/Без названия 1.md",
-    "_inbox/Без названия.md",
     "Алгоритмы и структуры данных",
     "README.md",
     "Csharp/Base Csharp/DateTime.md",
