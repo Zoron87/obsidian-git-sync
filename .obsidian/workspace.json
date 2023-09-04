@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Оператор null объединения.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Оператор null объединения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Оператор null объединения.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/null.md"
+                "file": "Csharp/Base Csharp/Оператор null объединения.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Оператор null объединения.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,11 +225,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b92b635d7a720fb7",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/null.md",
     "Csharp/Base Csharp/Оператор null объединения.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
-    "Csharp/Base Csharp/null.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
