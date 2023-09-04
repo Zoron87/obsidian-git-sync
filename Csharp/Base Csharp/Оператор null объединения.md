@@ -5,9 +5,9 @@
 
 ```C#
 int? i = null;
-ConsoleWriteLine(i.GetValueOrDefault()) // 0
-ConsoleWriteLine(i.GetValueOrDefault(3)) // 3
-ConsoleWriteLine(i ?? 3) // 3
+Console.WriteLine(i.GetValueOrDefault()); // 0
+Console.WriteLine(i.GetValueOrDefault(3)); // 3
+Console.WriteLine(i ?? 3); // 3
 ```
 
 
