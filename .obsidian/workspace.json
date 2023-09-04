@@ -18,34 +18,21 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9a95a62a911bb13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/null.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "ae7b27b12696f1ad",
+        "id": "f9fb99a410f13ba9",
         "type": "tabs",
         "children": [
           {
-            "id": "34232c54ac7e386a",
+            "id": "b92b635d7a720fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Оператор null объединения.md",
-                "mode": "preview",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/null.md"
+                "file": "Csharp/Base Csharp/Сигнатура метода.md"
               }
             }
           },
@@ -166,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/null.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,7 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,10 +225,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9a95a62a911bb13a",
+  "active": "b92b635d7a720fb7",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Оператор null объединения.md",
     "Csharp/Base Csharp/null.md",
+    "Csharp/Base Csharp/Оператор null объединения.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
