@@ -101,4 +101,7 @@ _Базовый солдат не должен знать про рядовых 
 
 Кстати, сохраняется и принцип подстановки Барбары Лисков. Ведь все разведчики, независимо от звания, ведут себя как разведчики.
 
+Также отличный материал по SOLID:
+https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design-ru
+
 #Csharp #ООП 
