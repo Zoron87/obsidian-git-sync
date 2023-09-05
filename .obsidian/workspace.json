@@ -155,18 +155,18 @@
               "state": {
                 "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
-                  "showTags": false,
+                  "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -225,7 +225,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e26fc36eb1e68bad",
+  "active": "1809c063fa6bf684",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Base Csharp/Интерфейсы.md",
