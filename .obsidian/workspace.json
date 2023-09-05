@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/null - nullable.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/null - nullable.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/null - nullable.md"
+                "file": "Csharp/Base Csharp/Сигнатура метода.md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/null - nullable.md",
+                "file": "Csharp/Base Csharp/Сигнатура метода.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
