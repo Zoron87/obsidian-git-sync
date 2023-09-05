@@ -22,17 +22,17 @@
         ]
       },
       {
-        "id": "f9fb99a410f13ba9",
+        "id": "97cd9bf6710a9485",
         "type": "tabs",
         "children": [
           {
-            "id": "b92b635d7a720fb7",
+            "id": "e26fc36eb1e68bad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/null - nullable.md",
-                "mode": "source",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -225,7 +225,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "e26fc36eb1e68bad",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Base Csharp/Интерфейсы.md",
