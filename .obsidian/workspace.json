@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "aed6419682498e2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "97cab42c0d542b2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "97cd9bf6710a9485",
         "type": "tabs",
         "children": [
@@ -31,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
-                "mode": "preview",
+                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md"
+                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md"
               }
             }
           },
@@ -153,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -225,8 +207,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "1809c063fa6bf684",
+  "active": "e26fc36eb1e68bad",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Что такое SOLID.md",
+    "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Base Csharp/Интерфейсы.md",
     "_inbox/Модификаторы доступа.md",
@@ -236,7 +220,6 @@
     "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
-    "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Стек (Stack).md",
@@ -265,7 +248,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое обработка исключений в Csharp. Как она работает..md",
     "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
-    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Clean Code",
     "Javascript/Cle",
     "Csharp/Вопросы на самопроверку",
