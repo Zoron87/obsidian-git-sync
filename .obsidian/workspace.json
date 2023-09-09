@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md"
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -209,8 +209,11 @@
   },
   "active": "e26fc36eb1e68bad",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Что такое SOLID.md",
     "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
+    "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+    "Csharp/Entity Framework (EF)",
+    "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
+    "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Base Csharp/Интерфейсы.md",
     "_inbox/Модификаторы доступа.md",
@@ -225,7 +228,6 @@
     "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Деструктор.md",
-    "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "_inbox/Без названия 1.md",
     "Алгоритмы и структуры данных",
     "README.md",
@@ -247,14 +249,12 @@
     "_resource/_files/enum-250.jpg",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое обработка исключений в Csharp. Как она работает..md",
-    "Csharp/Вопросы на самопроверку/Что такое обобщения в Csharp.md",
     "Clean Code",
     "Javascript/Cle",
     "Csharp/Вопросы на самопроверку",
     "Csharp/Подготовка к собеседованиям/Резюме",
     "Интересные задачи/Javascript",
     "Интересные задачи/Csharp",
-    "Интересные задачи",
     "_inbox/Без названия.canvas"
   ]
 }
