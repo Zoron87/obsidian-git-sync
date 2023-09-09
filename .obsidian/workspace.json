@@ -6,6 +6,7 @@
       {
         "id": "97cd9bf6710a9485",
         "type": "tabs",
+        "dimension": 57.80525502318392,
         "children": [
           {
             "id": "e26fc36eb1e68bad",
@@ -15,6 +16,25 @@
               "state": {
                 "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5bddde24b69c2d48",
+        "type": "tabs",
+        "dimension": 42.194744976816075,
+        "children": [
+          {
+            "id": "6a7c5cc3890e668c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -207,7 +227,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e26fc36eb1e68bad",
+  "active": "6a7c5cc3890e668c",
   "lastOpenFiles": [
     "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Entity Framework (EF)/Что такое DBContext.md",
