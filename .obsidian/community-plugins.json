@@ -2,5 +2,6 @@
   "obsidian-tasks-plugin",
   "obsidian-reminder-plugin",
   "obsidian-git",
-  "calendar"
+  "calendar",
+  "obsidian-file-link"
 ]
