@@ -6,7 +6,6 @@
       {
         "id": "97cd9bf6710a9485",
         "type": "tabs",
-        "dimension": 57.80525502318392,
         "children": [
           {
             "id": "e26fc36eb1e68bad",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "5bddde24b69c2d48",
+        "id": "620b0dce9a3281d8",
         "type": "tabs",
-        "dimension": 42.194744976816075,
         "children": [
           {
-            "id": "6a7c5cc3890e668c",
+            "id": "be94a3c730dff1e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
                 "mode": "preview",
                 "source": true
               }
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md"
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md"
               }
             }
           },
@@ -155,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +227,11 @@
   },
   "active": "e26fc36eb1e68bad",
   "lastOpenFiles": [
+    "_resource/_files/C.md",
+    "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+    "_resource/_files/C# Builder Строитель _ Design Patterns.mp4",
     "Csharp/Base Csharp/Деструктор.md",
+    "Csharp/Паттерны проектирования",
     "Csharp/Base Csharp/Интерфейсы.md",
     "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
@@ -262,19 +264,14 @@
     "_resource/_files/Solid-S.png",
     "Csharp/Вопросы на самопроверку/Что такое Entity Framework.md",
     "Интересные задачи/Csharp/Что выведет программа - enum.md",
-    "Интересные задачи/Csharp/Что выведет программа - location - time.md",
     "_resource/_templates",
     "_resource",
-    "Интересные задачи/Csharp/Что выведет программа enum-byte.md",
     "_resource/_files/delegate.jpg",
     "_resource/_files/enum-250.jpg",
-    "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Clean Code",
     "Javascript/Cle",
     "Csharp/Вопросы на самопроверку",
     "Csharp/Подготовка к собеседованиям/Резюме",
-    "Интересные задачи/Javascript",
-    "Интересные задачи/Csharp",
     "_inbox/Без названия.canvas"
   ]
 }
