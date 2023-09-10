@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBSet.md"
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,10 +227,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e26fc36eb1e68bad",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
-    "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+    "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Entity Framework (EF)",
