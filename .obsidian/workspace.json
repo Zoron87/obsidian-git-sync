@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "620b0dce9a3281d8",
+        "id": "f8ad90c22320fb8a",
         "type": "tabs",
         "children": [
           {
-            "id": "be94a3c730dff1e7",
+            "id": "b00a7dbda51b9755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
                 "mode": "preview",
                 "source": true
               }
@@ -225,7 +225,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e26fc36eb1e68bad",
+  "active": "b00a7dbda51b9755",
   "lastOpenFiles": [
     "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
