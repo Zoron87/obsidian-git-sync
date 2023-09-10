@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md"
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md"
               }
             }
           },
@@ -153,7 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -229,7 +229,7 @@
   "lastOpenFiles": [
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
     "_resource/_files/Csharp_Builder_Строитель_ Design_Patterns.mp4",
-    "Csharp/Паттерны проектирования/Порождающие паттерн Builder (Fluent Builder).md",
+    "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "_resource/_files/C# Builder Строитель _ Design Patterns 1.mp4",
     "_resource/_files/C.md",
     "Csharp/Base Csharp/Деструктор.md",
