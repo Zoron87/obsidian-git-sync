@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "mode": "source",
                 "source": true
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md"
+                "file": "Csharp/Base Csharp/Деструктор.md"
               }
             }
           },
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,16 +227,17 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "e26fc36eb1e68bad",
   "lastOpenFiles": [
-    "Csharp/Entity Framework (EF)/Что такое DBSet.md",
+    "Csharp/Base Csharp/Деструктор.md",
+    "Csharp/Base Csharp/Интерфейсы.md",
     "Csharp/Entity Framework (EF)/Что такое DBContext.md",
+    "Csharp/Entity Framework (EF)/Что такое DBSet.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Entity Framework (EF)",
     "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
-    "Csharp/Base Csharp/Интерфейсы.md",
     "_inbox/Модификаторы доступа.md",
     "Csharp/Base Csharp/null - nullable.md",
     "Csharp/Base Csharp/Оператор null объединения.md",
@@ -248,7 +249,6 @@
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Стек (Stack).md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
-    "Csharp/Base Csharp/Деструктор.md",
     "_inbox/Без названия 1.md",
     "Алгоритмы и структуры данных",
     "README.md",
