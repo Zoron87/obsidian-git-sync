@@ -36,8 +36,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "54098233b693f539",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,6 +216,16 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "ee100fefc4d255e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -225,7 +246,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b00a7dbda51b9755",
+  "active": "54098233b693f539",
   "lastOpenFiles": [
     "_resource/_files/Pasted image 20230912221939.png",
     "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
