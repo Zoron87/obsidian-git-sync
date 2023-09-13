@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
+                "file": "Алгоритмы и структуры данных/Рекурсия.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
+                "file": "Алгоритмы и структуры данных/Рекурсия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
+                "file": "Алгоритмы и структуры данных/Рекурсия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md"
+                "file": "Алгоритмы и структуры данных/Рекурсия.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
+                "file": "Алгоритмы и структуры данных/Рекурсия.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +232,10 @@
   },
   "active": "54098233b693f539",
   "lastOpenFiles": [
-    "Интересные задачи/Рекурсия/Переворот строки.md",
+    "README.md",
+    "Алгоритмы и структуры данных/Рекурсия.md",
     "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
+    "Интересные задачи/Рекурсия/Переворот строки.md",
     "Интересные задачи/Рекурсия",
     "Интересные задачи/Csharp/Без названия.md",
     "_resource/_files/Pasted image 20230912221939.png",
@@ -264,8 +266,6 @@
     "Csharp/Base Csharp/Что такое Csharp.md",
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Base Csharp/Стек (Stack).md",
-    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
-    "_inbox/Без названия 1.md",
     "Алгоритмы и структуры данных",
     "_resource/_files/location-time.jpg",
     "_resource/_files/Solid-D.png",
