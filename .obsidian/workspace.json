@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "97cd9bf6710a9485",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e26fc36eb1e68bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f8ad90c22320fb8a",
         "type": "tabs",
         "children": [
@@ -41,9 +23,11 @@
             "id": "54098233b693f539",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "Интересные задачи/Рекурсия/Переворот строки.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -114,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет код.md",
+                "file": "Интересные задачи/Рекурсия/Переворот строки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет код.md",
+                "file": "Интересные задачи/Рекурсия/Переворот строки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет код.md"
+                "file": "Интересные задачи/Рекурсия/Переворот строки.md"
               }
             }
           },
@@ -164,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет код.md",
+                "file": "Интересные задачи/Рекурсия/Переворот строки.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,6 +232,9 @@
   },
   "active": "54098233b693f539",
   "lastOpenFiles": [
+    "Интересные задачи/Рекурсия/Переворот строки.md",
+    "Интересные задачи/Рекурсия",
+    "Интересные задачи/Csharp/Без названия.md",
     "_resource/_files/Pasted image 20230912221939.png",
     "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
     "Интересные задачи/Csharp/Что выведет код.md",
@@ -280,7 +267,6 @@
     "_inbox/Без названия 1.md",
     "Алгоритмы и структуры данных",
     "README.md",
-    "Csharp/Base Csharp/DateTime.md",
     "_resource/_files/location-time.jpg",
     "_resource/_files/Solid-D.png",
     "_resource/_files/Solid-I.png",
@@ -291,9 +277,7 @@
     "_resource/_templates",
     "_resource",
     "_resource/_files/delegate.jpg",
-    "_resource/_files/enum-250.jpg",
     "Clean Code",
-    "Javascript/Cle",
     "_inbox/Без названия.canvas"
   ]
 }
