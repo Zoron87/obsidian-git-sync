@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое модель MVC.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 282.5
   },
   "right": {
     "id": "a11c58b275a80e01",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое модель MVC.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое модель MVC.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое модель MVC.md"
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое модель MVC.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,9 +232,10 @@
   },
   "active": "54098233b693f539",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+    "Csharp/ASP.NET/Что такое модель MVC.md",
     "_resource/_files/chrome_jpraL6jkHt.png",
     "Интересные задачи/Csharp/Что выведет код на консоль.md",
-    "Csharp/ASP.NET/Что такое модель MVC.md",
     "Алгоритмы и структуры данных/Рекурсия.md",
     "README.md",
     "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
@@ -276,7 +277,6 @@
     "_resource/_files/Solid-S.png",
     "_resource/_templates",
     "_resource",
-    "_resource/_files/delegate.jpg",
     "Clean Code",
     "_inbox/Без названия.canvas"
   ]
