@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52427ff2a62114de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "54098233b693f539",
+  "active": "52427ff2a62114de",
   "lastOpenFiles": [
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Base Csharp/Класс Interlocked.md",
