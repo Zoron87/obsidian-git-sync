@@ -4,45 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ad90c22320fb8a",
+        "id": "6392bb04e36269d9",
         "type": "tabs",
         "children": [
           {
-            "id": "b00a7dbda51b9755",
+            "id": "3dd636f2209b1866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет код.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "54098233b693f539",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Класс Interlocked.md",
+                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "52427ff2a62114de",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Класс Interlocked.md",
+                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Класс Interlocked.md",
+                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Класс Interlocked.md"
+                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md"
               }
             }
           },
@@ -158,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Класс Interlocked.md",
+                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,10 +217,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "52427ff2a62114de",
+  "active": "3dd636f2209b1866",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+    "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
+    "Csharp/Base Csharp/Модификаторы",
+    "Интересные задачи/Csharp/Что выведет код.md",
     "Csharp/Base Csharp/Класс Interlocked.md",
+    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/ASP.NET/Что такое модель MVC.md",
     "_resource/_files/chrome_jpraL6jkHt.png",
@@ -255,7 +235,6 @@
     "Интересные задачи/Рекурсия",
     "_resource/_files/Pasted image 20230912221939.png",
     "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
-    "Интересные задачи/Csharp/Что выведет код.md",
     "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
@@ -276,7 +255,6 @@
     "Csharp/Base Csharp/Оператор null объединения.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Csharp/Base Csharp/Перегрузка метода.md",
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Алгоритмы и структуры данных",
     "_resource/_files/location-time.jpg",
     "_resource/_files/Solid-D.png",
@@ -287,7 +265,6 @@
     "_resource/_files/Solid-S.png",
     "_resource/_templates",
     "_resource",
-    "Clean Code",
     "_inbox/Без названия.canvas"
   ]
 }
