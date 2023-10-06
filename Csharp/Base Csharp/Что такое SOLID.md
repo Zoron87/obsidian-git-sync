@@ -54,7 +54,19 @@ SOLID - это аббревиатуры, обозначающая первые 5
 
 ![[Solid-D.png]]
 
-![[chrome_wAUqOjUQq0.png]]
+C помощью dependency inversion мы можем избавиться от ситуации вида
+![[Зависимости.png]]
+
+где при изменении объекта Logger, может измениться и вышестоящая логика, такого быть не должно.
+
+![[Развернутые зависимости 1.png]]
+
+Опять же с помощью dependency inversion мы все приведем к след. виду:
+
+![[Dependency Inversion.png]]
+
+К слову dependency inversion делают с помощью dependency injection
+
 ---
 ---
 
