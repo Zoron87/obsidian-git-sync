@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b346523ec86807b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,7 +228,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "3dd636f2209b1866",
+  "active": "8b346523ec86807b",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/Base Csharp/Модификаторы",
