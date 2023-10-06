@@ -65,7 +65,7 @@ C помощью dependency inversion мы можем избавиться от 
 
 ![[Dependency Inversion.png]]
 
-К слову dependency inversion делают с помощью dependency injection
+К слову dependency inversion делают с помощью [[Dependency Injection (DI)]]
 
 ---
 ---
