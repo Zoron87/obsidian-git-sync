@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое DI container.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое DI container.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое DI container.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое DI container.md"
+                "file": "Csharp/Base Csharp/Что такое SOLID.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/Что такое DI container.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,6 +232,7 @@
   },
   "active": "8b346523ec86807b",
   "lastOpenFiles": [
+    "_resource/_files/chrome_wAUqOjUQq0.png",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/ASP.NET/Что такое DI container.md",
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
@@ -266,7 +267,6 @@
     "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
     "_inbox/Модификаторы доступа.md",
-    "Csharp/Base Csharp/null - nullable.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Алгоритмы и структуры данных",
     "_resource/_files/location-time.jpg",

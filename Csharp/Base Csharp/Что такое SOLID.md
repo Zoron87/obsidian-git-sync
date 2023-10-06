@@ -54,6 +54,7 @@ SOLID - это аббревиатуры, обозначающая первые 5
 
 ![[Solid-D.png]]
 
+![[chrome_wAUqOjUQq0.png]]
 ---
 ---
 
