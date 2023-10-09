@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
-                "mode": "preview",
+                "file": "Csharp/Base Csharp/Интернирование строк.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "интерни",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Интернирование строк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Интернирование строк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md"
+                "file": "Csharp/Base Csharp/Интернирование строк.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+                "file": "Csharp/Base Csharp/Интернирование строк.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +231,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bab9aa574df7f6e1",
+  "active": "8b346523ec86807b",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+    "Csharp/Base Csharp/Интернирование строк.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
@@ -273,7 +274,6 @@
     "Csharp/Entity Framework (EF)",
     "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
-    "_inbox/Модификаторы доступа.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Алгоритмы и структуры данных",
     "_resource/_files/location-time.jpg",
