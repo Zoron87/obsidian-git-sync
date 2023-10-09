@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dd636f2209b1866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b346523ec86807b",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
