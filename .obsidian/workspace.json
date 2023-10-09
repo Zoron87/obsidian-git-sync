@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Интернирование строк.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Интернирование строк.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Интернирование строк.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Интернирование строк.md"
+                "file": "Csharp/Base Csharp/Интерфейсы.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Интернирование строк.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +220,8 @@
   },
   "active": "8b346523ec86807b",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Base Csharp/Интернирование строк.md",
+    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
