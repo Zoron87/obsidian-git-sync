@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Visual Studio Code/ТОП горячих клавиш VS Code.md",
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Visual Studio Code/ТОП горячих клавиш VS Code.md",
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Visual Studio Code/ТОП горячих клавиш VS Code.md",
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Visual Studio Code/ТОП горячих клавиш VS Code.md"
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Visual Studio Code/ТОП горячих клавиш VS Code.md",
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +220,9 @@
   },
   "active": "8b346523ec86807b",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Интернирование строк.md",
     "Visual Studio Code/ТОП горячих клавиш VS Code.md",
+    "Csharp/ASP.NET/Передача списка через ViewBag.md",
+    "Csharp/Base Csharp/Интернирование строк.md",
     "Visual Studio Code",
     "Csharp/Base Csharp/Интерфейсы.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
@@ -261,7 +262,6 @@
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
     "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Entity Framework (EF)",
-    "_inbox/Вопросы по Csharp, которые задают на собеседовании.md",
     "_resource/_files/Pasted image 20230904013633.png",
     "Алгоритмы и структуры данных",
     "_resource/_files/location-time.jpg",
