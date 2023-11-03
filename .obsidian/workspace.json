@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "903f0d02d293c873",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +229,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8b346523ec86807b",
+  "active": "903f0d02d293c873",
   "lastOpenFiles": [
     "Visual Studio Code/ТОП горячих клавиш VS Code.md",
     "Csharp/ASP.NET/Передача списка через ViewBag.md",
