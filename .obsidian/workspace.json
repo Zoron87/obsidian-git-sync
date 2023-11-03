@@ -23,9 +23,11 @@
             "id": "903f0d02d293c873",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
