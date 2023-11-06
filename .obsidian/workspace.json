@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое абстракции.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое абстракции.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое абстракции.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое абстракции.md"
+                "file": "Csharp/Base Csharp/Интерфейсы.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое абстракции.md",
+                "file": "Csharp/Base Csharp/Интерфейсы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -215,8 +215,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,8 +231,8 @@
   },
   "active": "8b346523ec86807b",
   "lastOpenFiles": [
-    "Csharp/ASP.NET/Передача списка через ViewBag.md",
     "Csharp/Base Csharp/Что такое абстракции.md",
+    "Csharp/ASP.NET/Передача списка через ViewBag.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Visual Studio Code/ТОП горячих клавиш VS Code.md",
     "Csharp/Base Csharp/Интернирование строк.md",
