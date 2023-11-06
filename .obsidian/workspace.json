@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "file": "Csharp/Base Csharp/Что такое абстракции.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 241.5
   },
   "right": {
     "id": "a11c58b275a80e01",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "file": "Csharp/Base Csharp/Что такое абстракции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "file": "Csharp/Base Csharp/Что такое абстракции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md"
+                "file": "Csharp/Base Csharp/Что такое абстракции.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/Передача списка через ViewBag.md",
+                "file": "Csharp/Base Csharp/Что такое абстракции.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,15 +230,16 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "903f0d02d293c873",
+  "active": "8b346523ec86807b",
   "lastOpenFiles": [
-    "Visual Studio Code/ТОП горячих клавиш VS Code.md",
     "Csharp/ASP.NET/Передача списка через ViewBag.md",
+    "Csharp/Base Csharp/Что такое абстракции.md",
+    "Csharp/Base Csharp/Что такое SOLID.md",
+    "Visual Studio Code/ТОП горячих клавиш VS Code.md",
     "Csharp/Base Csharp/Интернирование строк.md",
     "Visual Studio Code",
     "Csharp/Base Csharp/Интерфейсы.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
-    "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "_resource/_files/Pasted image 20231007012159.png",
@@ -273,7 +273,6 @@
     "Csharp/Base Csharp/Деструктор.md",
     "Csharp/Паттерны проектирования",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
-    "Javascript/Самовызывающиеся ф-ции - Немедленно исполняемые ф-ции (Immediately Invoked Functions).md",
     "Csharp/Entity Framework (EF)",
     "_resource/_files/Pasted image 20230904013633.png",
     "Алгоритмы и структуры данных",
