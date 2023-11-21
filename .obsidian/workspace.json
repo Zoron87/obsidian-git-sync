@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
+                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 200
   },
   "right": {
     "id": "a11c58b275a80e01",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
+                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
+                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md"
+                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
+                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,13 +220,14 @@
   },
   "active": "9b3328b25dee5cdf",
   "lastOpenFiles": [
+    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
+    "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
     "_resource/_files/Pasted image 20231121222738.png",
     "_resource/_files/Pasted image 20231121222225.png",
     "_resource/_files/Pasted image 20231121221828.png",
     "_resource/_files/Pasted image 20231121221104.png",
     "_resource/_files/Pasted image 20231121221001.png",
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
-    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "_resource/_files/Pasted image 20231121213512.png",
     "_resource/_files/Pasted image 20231121213233.png",
     "_resource/_files/Pasted image 20231121213030.png",
@@ -246,7 +246,6 @@
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "_resource/_files/Pasted image 20231007012159.png",
-    "_resource/_files/Зависимости.png",
     "Csharp/ASP.NET/Что такое DI container.md",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Csharp/Что выведет код.md",
