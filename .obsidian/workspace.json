@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "916f39e41a934927",
+        "id": "f3490f21f1abb2cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9b3328b25dee5cdf",
+            "id": "277be43f735a6ef4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -218,10 +209,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "9b3328b25dee5cdf",
+  "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
+    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "_resource/_files/Pasted image 20231121222738.png",
     "_resource/_files/Pasted image 20231121222225.png",
     "_resource/_files/Pasted image 20231121221828.png",

@@ -85,10 +85,12 @@ namespace HelloApp
 
 При выполнении миграции для такого контекста данных мы получим ошибку:
 
+```C#
 PM> Add-Migration InitialCreate
 Build started...
 Build succeeded.
 Unable to create an object of type 'ApplicationContext'. For the different patterns supported at design time, see https://go.microsoft.com/fwlink/?linkid=851728
+```
 
 Дело в том, что, если единственный конструктор класса контекста принимает параметр DbContext:
 
@@ -135,3 +137,9 @@ namespace HelloApp
 В данном случае также получаем конфигурацию из файла appsettings.json и извлекаем из ее строку подключения и таким образом создаем контекст.
 
 Хотя этот класс формально нигде не вызывается и никак не используется, фактически он вызывается инфраструктурой Entity Framework при создании миграции.
+
+Исходная статья:
+https://metanit.com/sharp/entityframeworkcore/2.15.php?ysclid=lp6ukb7wnv67112164
+
+
+#ASP-NET #Migrations #МиграцииБД
