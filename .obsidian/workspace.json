@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md"
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,8 +221,8 @@
   },
   "active": "9b3328b25dee5cdf",
   "lastOpenFiles": [
-    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
+    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "_resource/_files/Pasted image 20231121213512.png",
     "_resource/_files/Pasted image 20231121213233.png",
     "_resource/_files/Pasted image 20231121213030.png",
