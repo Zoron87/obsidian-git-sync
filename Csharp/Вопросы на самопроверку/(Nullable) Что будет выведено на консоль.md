@@ -26,4 +26,10 @@ static void NullableTest()
 ### Простой путь
 
   
-_int?_ — это _Nullable<int>_. Открываем [документацию по _Nullable<T>_](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=netcore-3.1), где смотрим раздел "Boxing and Unboxing". В принципе, на этом всё — поведение там описано. Но если хочется побольше деталей, приглашаю на интересный путь. ;)
+_int?_ — это _Nullable<int>_. Открываем [документацию по _Nullable<T>_](https://docs.microsoft.com/en-us/dotnet/api/system.nullable-1?view=netcore-3.1), где смотрим раздел "Boxing and Unboxing". В принципе, на этом всё — поведение там описано. 
+
+Источник статьи:
+[https://habr.com/ru/companies/pvs-studio/articles/525818/](https://habr.com/ru/companies/pvs-studio/articles/525818/)
+
+#Nullable #задачи_Csharp 
+
