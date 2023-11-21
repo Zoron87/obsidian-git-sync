@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship.md"
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Entity Relationship.md",
+                "file": "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,7 +220,7 @@
   },
   "active": "9b3328b25dee5cdf",
   "lastOpenFiles": [
-    "Csharp/Паттерны проектирования/Entity Relationship.md",
+    "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
