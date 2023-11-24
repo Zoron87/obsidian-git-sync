@@ -11,8 +11,12 @@
             "id": "277be43f735a6ef4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Диаграмы",
+                "query": "делега",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md"
+              }
             }
           },
           {
@@ -127,6 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
