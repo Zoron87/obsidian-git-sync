@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md"
+                "file": "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,6 +220,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+    "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
     "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "_resource/_files/Pasted image 20231121222738.png",
@@ -258,8 +259,6 @@
     "Интересные задачи/Рекурсия/Индекс максимального элемента массива.md",
     "Интересные задачи/Рекурсия/Переворот строки.md",
     "Интересные задачи/Рекурсия",
-    "Csharp/Entity Framework (EF)/Что такое Entity Framework.md",
-    "Csharp/Entity Framework (EF)/Что такое DBContext.md",
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
     "_resource/_files/Csharp_Builder_Строитель_ Design_Patterns.mp4",
     "_resource/_files/C# Builder Строитель _ Design Patterns 1.mp4",
