@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
+                "file": "Csharp/Base Csharp/Форматирование целых чисел.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
+                "file": "Csharp/Base Csharp/Форматирование целых чисел.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
+                "file": "Csharp/Base Csharp/Форматирование целых чисел.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md"
+                "file": "Csharp/Base Csharp/Форматирование целых чисел.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
+                "file": "Csharp/Base Csharp/Форматирование целых чисел.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,9 +220,11 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20231211092428.png",
+    "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
+    "Csharp/Base Csharp/Форматирование целых чисел.md",
     "_resource/_files/Pasted image 20231211092212.png",
     "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
-    "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
     "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
@@ -249,7 +251,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
-    "_resource/_files/Pasted image 20231007012159.png",
     "Csharp/ASP.NET/Что такое DI container.md",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Csharp/Что выведет код.md",
@@ -257,7 +258,6 @@
     "Csharp/ASP.NET/Что такое модель MVC.md",
     "Интересные задачи/Csharp/Что выведет код на консоль.md",
     "Алгоритмы и структуры данных/Рекурсия.md",
-    "README.md",
     "Интересные задачи/Рекурсия",
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
     "_resource/_files/Csharp_Builder_Строитель_ Design_Patterns.mp4",
