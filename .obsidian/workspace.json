@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md"
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +221,7 @@
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
     "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
-    "Интересные задачи/Csharp/Что будет выведено на консоль.md",
+    "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
     "_resource/_files/Pasted image 20231213152131.png",
     "Csharp/Вопросы на самопроверку/Почему выводит 2 раза Cat-test (скрытие реализации - new).md",
     "_resource/_files/Pasted image 20231212105222.png",
