@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md"
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Интересные задачи/Csharp/Что будет выведено на консоль.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,9 +220,10 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+    "Интересные задачи/Csharp/Что будет выведено на консоль.md",
     "_resource/_files/Pasted image 20231213152131.png",
     "Csharp/Вопросы на самопроверку/Почему выводит 2 раза Cat-test (скрытие реализации - new).md",
-    "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
     "_resource/_files/Pasted image 20231212105222.png",
     "Csharp/Паттерны проектирования/Паттерн проектирования 'Фасад' (Facade).md",
     "_resource/_files/Pasted image 20231211121940.png",
@@ -244,7 +245,6 @@
     "_resource/_files/Pasted image 20231121221104.png",
     "_resource/_files/Pasted image 20231121221001.png",
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
-    "_resource/_files/Pasted image 20231121213512.png",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
