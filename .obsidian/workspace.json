@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Csharp/Base Csharp/Перегрузка метода.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "интерф",
+                "query": "ООП",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Csharp/Base Csharp/Перегрузка метода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Csharp/Base Csharp/Перегрузка метода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md"
+                "file": "Csharp/Base Csharp/Перегрузка метода.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+                "file": "Csharp/Base Csharp/Перегрузка метода.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +221,11 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Интерфейсы/Методы интерфейса по умолчанию не наследуются.md",
+    "Csharp/Base Csharp/Сигнатура метода.md",
+    "Csharp/Base Csharp/Перегрузка метода.md",
+    "Csharp/Base Csharp/Чем отличаются интерфейсы от абстрактных классов в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
+    "Csharp/Base Csharp/Интерфейсы/Методы интерфейса по умолчанию не наследуются.md",
     "Csharp/Base Csharp/Интерфейсы",
     "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
     "_resource/_files/Pasted image 20231213152131.png",
@@ -232,7 +236,6 @@
     "Csharp/Паттерны проектирования/Паттерн 'Репозиторий' в ASP.NET.md",
     "Csharp/Паттерны проектирования/Entity Relationship - учимся проектированию диаграмм.md",
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
-    "Csharp/Base Csharp/Чем отличаются интерфейсы от абстрактных классов в Csharp.md",
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
     "Csharp/Base Csharp/Форматирование целых чисел.md",
     "_resource/_files/Pasted image 20231211092428.png",
@@ -256,8 +259,6 @@
     "Visual Studio Code/ТОП горячих клавиш VS Code.md",
     "Csharp/Base Csharp/Интернирование строк.md",
     "Visual Studio Code",
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
-    "Csharp/Base Csharp/Модификаторы/Модификатор static.md",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
