@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+                "file": "Csharp/Base Csharp/Управляемая куча.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+                "file": "Csharp/Base Csharp/Управляемая куча.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+                "file": "Csharp/Base Csharp/Управляемая куча.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md"
+                "file": "Csharp/Base Csharp/Управляемая куча.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+                "file": "Csharp/Base Csharp/Управляемая куча.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,9 +220,10 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+    "Csharp/Base Csharp/Управляемая куча.md",
     "_resource/_files/Pasted image 20231223012126.png",
     "Csharp/Base Csharp/Перегрузка метода.md",
-    "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
     "Csharp/Base Csharp/Сигнатура метода.md",
     "Csharp/Base Csharp/Чем отличаются интерфейсы от абстрактных классов в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что будет выведено на консоль (internal interface).md",
@@ -249,7 +250,6 @@
     "_resource/_files/Pasted image 20231121222225.png",
     "_resource/_files/Pasted image 20231121221828.png",
     "_resource/_files/Pasted image 20231121221104.png",
-    "_resource/_files/Pasted image 20231121221001.png",
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
     "Csharp/Entity Framework (EF)/Что такое DBSet.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
