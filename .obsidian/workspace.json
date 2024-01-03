@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc43cd2293ad3def",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +205,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -218,7 +231,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "277be43f735a6ef4",
+  "active": "fc43cd2293ad3def",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Управляемая куча.md",
     "Docker/Команды докер.md",
