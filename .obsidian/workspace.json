@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fc43cd2293ad3def",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +220,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "fc43cd2293ad3def",
+  "active": "277be43f735a6ef4",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Управляемая куча.md",
     "Docker/Команды докер.md",
