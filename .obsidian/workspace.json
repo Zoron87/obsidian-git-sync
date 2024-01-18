@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md"
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,10 +223,10 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Перегрузка метода.md",
+    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
-    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
-    "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/Чем отличаются интерфейсы от абстрактных классов в Csharp.md",
     "Csharp/Base Csharp/Абстрактные классы",
