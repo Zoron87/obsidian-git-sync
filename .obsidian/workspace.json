@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Интересные задачи/Csharp/Без названия.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "инкапсу",
+                "query": "MSIL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Интересные задачи/Csharp/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Интересные задачи/Csharp/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
+                "file": "Интересные задачи/Csharp/Без названия.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Интересные задачи/Csharp/Без названия.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,11 +222,12 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+    "Интересные задачи/Csharp/Без названия.md",
     "Csharp/Base Csharp/Перегрузка метода.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
-    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/Чем отличаются интерфейсы от абстрактных классов в Csharp.md",
     "Csharp/Base Csharp/Абстрактные классы",
     "Docker/Команды докер.md",
@@ -261,7 +261,6 @@
     "_resource/_files/Pasted image 20231121222225.png",
     "_resource/_files/Pasted image 20231121221828.png",
     "_resource/_files/Pasted image 20231121221104.png",
-    "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
