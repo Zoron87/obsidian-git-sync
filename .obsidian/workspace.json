@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "делегат",
+                "query": "JIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md"
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что выведет программа - delegate.md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Интернирование строк.md",
+    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/Base Csharp/Управляемая куча.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
@@ -256,8 +258,6 @@
     "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
     "_resource/_files/Pasted image 20231211092212.png",
     "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
-    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
-    "Csharp/ASP.NET/Миграции Базы данных (Метод Migrate).md",
     "_resource/_files/Pasted image 20231121222738.png",
     "_resource/_files/Pasted image 20231121222225.png",
     "_resource/_files/Pasted image 20231121221828.png",
