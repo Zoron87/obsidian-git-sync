@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
+                "file": "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,9 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Что такое CLR и JIT.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+    "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
+    "Csharp/Base Csharp/Что такое CLR и JIT.md",
     "Csharp/Base Csharp/Интернирование строк.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Csharp/Base Csharp/Управляемая куча.md",
@@ -255,7 +256,6 @@
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
     "Csharp/Base Csharp/Форматирование целых чисел.md",
     "_resource/_files/Pasted image 20231211092428.png",
-    "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
     "_resource/_files/Pasted image 20231211092212.png",
     "_resource/_files/Pasted image 20231121222738.png",
     "_resource/_files/Pasted image 20231121222225.png",
