@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "сборщик",
+                "query": "CIL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md"
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
+                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +223,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
+    "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Задачи на ООП",
     "Csharp/Base Csharp/Обработчики событий/Обработчики исключений с пользовательской фильтрацией.md",
     "_inbox/Модификаторы доступа.md",
