@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md"
+                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,9 +222,11 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20240202093646.png",
+    "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
+    "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
     "_resource/_files/Pasted image 20240202093119.png",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
-    "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
     "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Задачи на ООП",
@@ -255,14 +257,12 @@
     "Csharp/Base Csharp/Интерфейсы",
     "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
     "_resource/_files/Pasted image 20231213152131.png",
-    "Csharp/Вопросы на самопроверку/Почему выводит 2 раза Cat-test (скрытие реализации - new).md",
     "_resource/_files/Pasted image 20231212105222.png",
     "_resource/_files/Pasted image 20231211121940.png",
     "_resource/_files/Pasted image 20231211092428.png",
     "_resource/_files/Pasted image 20231211092212.png",
     "_resource/_files/Pasted image 20231121222738.png",
     "_resource/_files/Pasted image 20231121222225.png",
-    "_resource/_files/Pasted image 20231121221828.png",
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
