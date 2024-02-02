@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
+                "file": "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
+                "file": "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
+                "file": "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md"
+                "file": "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
+                "file": "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,9 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
     "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
+    "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
+    "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
     "_resource/_files/Pasted image 20240202093646.png",
     "_resource/_files/Pasted image 20240202093119.png",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
