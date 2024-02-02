@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CIL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
+                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,13 +222,15 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20240202093119.png",
+    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+    "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
     "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Задачи на ООП",
     "Csharp/Base Csharp/Обработчики событий/Обработчики исключений с пользовательской фильтрацией.md",
     "_inbox/Модификаторы доступа.md",
     "_resource/_files/Pasted image 20240125212008.png",
-    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Base Csharp/Обработчики событий",
     "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
@@ -256,9 +257,7 @@
     "_resource/_files/Pasted image 20231213152131.png",
     "Csharp/Вопросы на самопроверку/Почему выводит 2 раза Cat-test (скрытие реализации - new).md",
     "_resource/_files/Pasted image 20231212105222.png",
-    "Csharp/Паттерны проектирования/Паттерн проектирования 'Фасад' (Facade).md",
     "_resource/_files/Pasted image 20231211121940.png",
-    "Csharp/Паттерны проектирования/Паттерн 'Репозиторий' в ASP.NET.md",
     "_resource/_files/Pasted image 20231211092428.png",
     "_resource/_files/Pasted image 20231211092212.png",
     "_resource/_files/Pasted image 20231121222738.png",
