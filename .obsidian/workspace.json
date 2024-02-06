@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md"
+                "file": "Unit тестирование/Что такое unit-тест.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,9 +222,11 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
+    "Unit тестирование/Что такое unit-тест.md",
+    "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
     "Csharp/Base Csharp/Что такое SOLID.md",
-    "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
     "Интересные задачи/Csharp/Задача на приведение типов.md",
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "_resource/_files/Pasted image 20240204152718.png",
@@ -262,12 +264,10 @@
     "_resource/_files/Pasted image 20231212105222.png",
     "_resource/_files/Pasted image 20231211121940.png",
     "_resource/_files/Pasted image 20231211092428.png",
-    "_resource/_files/Pasted image 20231211092212.png",
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
     "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
-    "_resource/_files/Csharp_Builder_Строитель_ Design_Patterns.mp4",
     "_inbox/Без названия.canvas"
   ]
 }
