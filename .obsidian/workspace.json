@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 302.5
   },
   "right": {
     "id": "a11c58b275a80e01",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md"
+                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,10 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
     "Unit тестирование/Что такое unit-тест.md",
+    "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
+    "Интересные задачи/Csharp/Приведение типов",
+    "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
     "Csharp/Base Csharp/Что такое SOLID.md",
@@ -257,7 +259,6 @@
     "Docker/Команды докер.md",
     "Docker",
     "Csharp/Base Csharp/Стек (Stack).md",
-    "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
     "_resource/_files/Pasted image 20231223012126.png",
     "Csharp/Base Csharp/Интерфейсы",
     "_resource/_files/Pasted image 20231213152131.png",
@@ -267,7 +268,6 @@
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
-    "_resource/_files/Csharp_Builder_Строитель_Design_Patterns.mp4",
     "_inbox/Без названия.canvas"
   ]
 }
