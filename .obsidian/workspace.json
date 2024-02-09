@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development).md",
+                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development).md",
+                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development).md",
+                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development).md"
+                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development).md",
+                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +223,7 @@
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
     "Unit тестирование/Что такое unit-тест.md",
-    "Unit тестирование/TDD (test-driven development).md",
+    "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов",
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
