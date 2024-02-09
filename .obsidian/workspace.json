@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
+                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
+                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
+                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md"
+                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
+                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,9 +222,10 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
+    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "_resource/_files/Pasted image 20240209101457.png",
     "Unit тестирование/Что такое unit-тест.md",
-    "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов",
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
@@ -264,7 +265,6 @@
     "_resource/_files/Pasted image 20231213152131.png",
     "_resource/_files/Pasted image 20231212105222.png",
     "_resource/_files/Pasted image 20231211121940.png",
-    "_resource/_files/Pasted image 20231211092428.png",
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
     "Интересные задачи/Рекурсия",
