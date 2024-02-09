@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
+                "file": "Unit тестирование/TDD (test-driven development).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
+                "file": "Unit тестирование/TDD (test-driven development).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
+                "file": "Unit тестирование/TDD (test-driven development).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md"
+                "file": "Unit тестирование/TDD (test-driven development).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
+                "file": "Unit тестирование/TDD (test-driven development).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,7 @@
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
     "Unit тестирование/Что такое unit-тест.md",
+    "Unit тестирование/TDD (test-driven development).md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов",
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
@@ -258,7 +259,6 @@
     "Csharp/Base Csharp/Абстрактные классы",
     "Docker/Команды докер.md",
     "Docker",
-    "Csharp/Base Csharp/Стек (Stack).md",
     "_resource/_files/Pasted image 20231223012126.png",
     "Csharp/Base Csharp/Интерфейсы",
     "_resource/_files/Pasted image 20231213152131.png",
