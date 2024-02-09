@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
+                "file": "SQL/Выборка данных по условию.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
+                "file": "SQL/Выборка данных по условию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
+                "file": "SQL/Выборка данных по условию.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md"
+                "file": "SQL/Выборка данных по условию.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
+                "file": "SQL/Выборка данных по условию.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,11 +220,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
+    "SQL/Выборка данных по условию.md",
     "SQL",
     "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
-    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "_resource/_files/Pasted image 20240209101457.png",
     "Unit тестирование/Что такое unit-тест.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
@@ -267,7 +268,6 @@
     "_resource/_files/Pasted image 20231211121940.png",
     "Visual Studio Code",
     "Csharp/Base Csharp/Модификаторы",
-    "Интересные задачи/Рекурсия",
     "_inbox/Без названия.canvas"
   ]
 }
