@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Выборка данных по условию.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "finalize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Выборка данных по условию.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Выборка данных по условию.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Выборка данных по условию.md"
+                "file": "Csharp/Base Csharp/Деструктор.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Выборка данных по условию.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +223,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "SQL/Выборка данных по условию.md",
+    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "SQL",
     "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
     "_resource/_files/Pasted image 20240209101457.png",
