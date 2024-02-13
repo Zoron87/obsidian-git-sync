@@ -22,9 +22,12 @@ var rndString = fixture.Create<string>(); // rndString = example.net
 var person = new List<Person>();
 per.AddManyTo(person);
 
-// Создание определенного пользователя
+// Создание определенного пользователя с опред. настройками
 var people = fixture
 			.Build<Person>()
-			.
+			.With(x => x.Id, 555)
+			.With(x => x.DateOfBirth, new DateTime(2000, 10, 11))
+			.With(x => x.LastName, "Пупкин")
+			.Create();
 
 ```
