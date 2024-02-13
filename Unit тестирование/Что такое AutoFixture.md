@@ -14,5 +14,17 @@ var randomPerson = fixture.Create<Person>(); // генерация рандом�
 var randomPerson = fixture.CreateMany<Person>(); // генерация 3 рандомных экземпляров типа Person
 var random10Person = fixture.CreateMany<Person>(10); // генерация 10 рандомных экземпляров типа Person
 
-fixture.Register(() => "example.net")
+
+fixture.Register(() => "example.net");
+var rndString = fixture.Create<string>(); // rndString = example.net
+
+// Наполнение списка 
+var person = new List<Person>();
+per.AddManyTo(person);
+
+// Создание определенного пользователя
+var people = fixture
+			.Build<Person>()
+			.
+
 ```
