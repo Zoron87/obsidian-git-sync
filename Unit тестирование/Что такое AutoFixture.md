@@ -6,5 +6,7 @@ AutoFixture - это библиотека, которая позволяет с�
 
 ```C#
 var fixture = new Fixture();
-var date = fixture.Create<DateTime>();
+var date = fixture.Create<DateTime>(); // генерация рандомной даты
+var date = fixture.Create<string>(); // генерация рандомной строки
+var date = fixture.Create<double>(); // генерация рандомной числа
 ```
