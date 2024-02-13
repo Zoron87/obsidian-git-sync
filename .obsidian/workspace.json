@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Unit тестирование/Что такое AutoFixture.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Unit тестирование/Что такое AutoFixture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Unit тестирование/Что такое AutoFixture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md"
+                "file": "Unit тестирование/Что такое AutoFixture.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Деструктор.md",
+                "file": "Unit тестирование/Что такое AutoFixture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +222,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Деструктор.md",
+    "Unit тестирование/Что такое AutoFixture.md",
     "SQL/Выборка данных по условию.md",
     "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "SQL",
@@ -258,8 +259,6 @@
     "Csharp/Base Csharp/Управляемая куча.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/Перегрузка метода.md",
-    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
-    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Base Csharp/Абстрактные классы",
     "Docker",
     "_resource/_files/Pasted image 20231223012126.png",
