@@ -9,4 +9,5 @@ var fixture = new Fixture();
 var date = fixture.Create<DateTime>(); // генерация рандомной даты
 var date = fixture.Create<string>(); // генерация рандомной строки
 var date = fixture.Create<double>(); // генерация рандомного числа
+var date = fixture.Create<Person>(); // генерация рандомного экземпляра типа Person
 ```
