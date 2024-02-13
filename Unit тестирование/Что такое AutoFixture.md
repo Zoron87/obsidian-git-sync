@@ -8,5 +8,5 @@ AutoFixture - это библиотека, которая позволяет с�
 var fixture = new Fixture();
 var date = fixture.Create<DateTime>(); // генерация рандомной даты
 var date = fixture.Create<string>(); // генерация рандомной строки
-var date = fixture.Create<double>(); // генерация рандомной числа
+var date = fixture.Create<double>(); // генерация рандомного числа
 ```
