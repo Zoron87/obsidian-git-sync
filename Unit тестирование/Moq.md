@@ -8,7 +8,8 @@ var productRepositoryMock = new Moq.Mock<IProductRepository>();
 productRepositoryMock.Setup(obj => obj.GetById("1")).Returns(new Product("1", "TEST123"));
 
 // И проверяем
-IProductRepositu
+IProductRepository productRepository = productRepositoryMock.Object;
+Console.WriteLine(productRepository.GetById("1").Sku);  // TEST123
 ```
 
 ## Волшебное It
