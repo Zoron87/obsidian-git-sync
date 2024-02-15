@@ -45,3 +45,8 @@ OutTestMethod(productRepositoryMock.Object);
 // Верифицируем
 productRepositoryMock.Verify(obj => obj.GetTotalCount(Moq.It.IsRegex(@"^Test".*")));
 ```
+
+## Возможности: имитация классов
+```C#
+public class MyCompany
+```
