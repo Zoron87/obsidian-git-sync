@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Unit тестирование/Assert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Unit тестирование/Assert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Unit тестирование/Assert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md"
+                "file": "Unit тестирование/Assert.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/Что такое unit-тест.md",
+                "file": "Unit тестирование/Assert.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +220,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Unit тестирование/Что такое unit-тест.md",
+    "Unit тестирование/Assert.md",
     "Unit тестирование/Moq.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Visual Studio/Фишки Visual Studio.md",
@@ -233,7 +235,6 @@
     "SQL",
     "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
     "_resource/_files/Pasted image 20240209101457.png",
-    "Unit тестирование/Что такое unit-тест.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов",
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
@@ -259,7 +260,6 @@
     "Csharp/Base Csharp/Что такое CLR и JIT.md",
     "Csharp/Base Csharp/Интернирование строк.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
-    "Csharp/Base Csharp/Управляемая куча.md",
     "Csharp/Base Csharp/Абстрактные классы",
     "Docker",
     "_resource/_files/Pasted image 20231223012126.png",
