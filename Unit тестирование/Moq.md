@@ -1,3 +1,16 @@
+## Базовое использование
+
+```C#
+// Создаем mock объект
+var productRepositoryMock = new Moq.Mock<IProductRepository>();
+
+// Настраиваем
+productRepositoryMock.Setup(obj => obj.GetById("1")).Returns(new Product("1", "TEST123"));
+
+// И проверяем
+IProductRepositu
+```
+
 ## Волшебное It
 
 | Метод | Комментарий |
