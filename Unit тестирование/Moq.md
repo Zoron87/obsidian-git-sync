@@ -38,4 +38,10 @@ Console.WriteLine(productRepository.GetById("2").Sku); // TEST321
 // Создаем mock Объект
 var productRepositoryMock = new Moq.Mock<IProductRepository>();
 productRepositoryMock.Setup(obj => obj.GetTotalCount(Moq.It.IsAny<string>())).Returns(2);
+
+// Вызываем тестируемый метод
+OutTestMethod(productRepositoryMock.Object);
+
+// Верифицируем
+productRepositoryMock.Verify(obj => obj.GetTotalCount(Moq.It.IsRegex(@"^Test".*")));
 ```
