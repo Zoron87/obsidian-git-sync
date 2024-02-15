@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
+                "file": "Unit тестирование/Что такое unit-тест.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Unit тестирование/Что такое unit-тест.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,9 +220,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "277be43f735a6ef4",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
     "Unit тестирование/Moq.md",
+    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Visual Studio/Фишки Visual Studio.md",
     "Unit тестирование/Что такое AutoFixture.md",
     "Visual Studio",
@@ -248,7 +248,6 @@
     "Csharp/Вопросы на самопроверку/Какая разница между throw и throw ex.md",
     "_resource/_files/Pasted image 20240202093646.png",
     "_resource/_files/Pasted image 20240202093119.png",
-    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Интересные задачи/Csharp/Задачи на ООП/Без использования среды программирования, укажите правильный вариант ответа..md",
     "Интересные задачи/Csharp/Задачи на ООП",
     "Csharp/Base Csharp/Обработчики событий/Обработчики исключений с пользовательской фильтрацией.md",
