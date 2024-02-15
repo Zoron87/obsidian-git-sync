@@ -49,4 +49,15 @@ productRepositoryMock.Verify(obj => obj.GetTotalCount(Moq.It.IsRegex(@"^Test".*"
 ## Возможности: имитация классов
 ```C#
 public class MyCompany
+{
+	public virtual decimal GiveMeSalary() => 1000;
+	public virtual event EventHandler<decimal> OnReceive;
+}
+var MyCompany = new MyCompany();
+Console.WriteLine(myCompany.GiveMeSalary().ToString("C")); // $1000
+
+var myCompanyMock = new Moq.Mock<MyCompany>();
+myCompanyMock.Setup(obj => obj.GiveMeSalary()).Returns(2000));
+var myDreamsCompany = myCompanyMock.Object;
+Console.WriteLine(myDream)
 ```
