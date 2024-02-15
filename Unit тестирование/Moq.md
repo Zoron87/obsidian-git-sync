@@ -12,6 +12,15 @@ IProductRepository productRepository = productRepositoryMock.Object;
 Console.WriteLine(productRepository.GetById("1").Sku);  // TEST123
 ```
 
+## LINQ to Mocks
+```C#
+// Имитируем объект в одну строчку
+IProductRepostitory productRepository = Moq.Mock.Of<IProductRepository>(obj => obj.GetById("1") == new Product("1", "TEST123") && 
+obj.GetById("2") == new Product("2", "TEST321"));
+
+// Проверяем
+Console.WriteLine(productRepository.GetById("2").Sku); // TEST321
+```
 ## Волшебное It
 
 | Метод | Комментарий |
