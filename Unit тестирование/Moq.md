@@ -33,3 +33,9 @@ Console.WriteLine(productRepository.GetById("2").Sku); // TEST321
 | It.IsNotIn | Подойдет любое значение, которое не находится в перечислении |
 | It.IsRegex | Значение должно соответствовать регулярному выражению. Только для строк |
 | It.Ref.Any | Используется для ref-аргументов |
+Пример
+```C#
+// Создаем mock Объект
+var productRepositoryMock = new Moq.Mock<IProductRepository>();
+productRepositoryMock.Setup(obj => obj.GetTotalCount(Moq.It.IsAny<string>())).Returns(2);
+```
