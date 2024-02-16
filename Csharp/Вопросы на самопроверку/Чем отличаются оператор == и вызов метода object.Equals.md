@@ -6,11 +6,6 @@
 2) Equals
 Отвечает за сравнение значений.
 
-
-<video controls src='file:///C:\Users\NameZ\Downloads\C# разница между == и Equals() за 30 секунд #Shorts.mp4'>
-
- [C# разница между == и Equals() за 30 секунд #Shorts](<file:///C:\Users\NameZ\Downloads\C# разница между == и Equals() за 30 секунд #Shorts.mp4>)
-
+<video controls src='file:///C:%5CUsers%5CNameZ%5CDownloads%5CRavno_And_Equals.mp4'>
 
 https://youtu.be/KAhG6475VWc
-

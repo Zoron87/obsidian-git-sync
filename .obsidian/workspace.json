@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
-                "mode": "source",
+                "file": "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md"
+                "file": "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
+                "file": "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,7 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
     "Unit тестирование/Assert.md",
     "Unit тестирование/Что такое unit-тест.md",
@@ -260,7 +261,6 @@
     "Csharp/Вопросы на самопроверку/Разница между управляемым и неуправляемым кодом.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Что такое CLR и JIT.md",
-    "Csharp/Base Csharp/Интернирование строк.md",
     "Csharp/Base Csharp/Абстрактные классы",
     "Docker",
     "_resource/_files/Pasted image 20231223012126.png",
