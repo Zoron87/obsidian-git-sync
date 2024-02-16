@@ -7,5 +7,10 @@
 Отвечает за сравнение значений.
 
 
+<video controls src='file:///C:\Users\NameZ\Downloads\C# разница между == и Equals() за 30 секунд #Shorts.mp4'>
+
+ [C# разница между == и Equals() за 30 секунд #Shorts](<file:///C:\Users\NameZ\Downloads\C# разница между == и Equals() за 30 секунд #Shorts.mp4>)
+
+
 https://youtu.be/KAhG6475VWc
 
