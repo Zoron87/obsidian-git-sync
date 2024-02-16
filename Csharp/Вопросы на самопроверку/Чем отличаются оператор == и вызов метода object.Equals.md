@@ -5,3 +5,7 @@
 
 2) Equals
 Отвечает за сравнение значений.
+
+
+https://youtu.be/KAhG6475VWc
+
