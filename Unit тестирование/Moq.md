@@ -9,7 +9,7 @@ productRepositoryMock.Setup(obj => obj.GetById("1")).Returns(new Product("1", "T
 
 // И проверяем
 IProductRepository productRepository = productRepositoryMock.Object;
-Console.WriteLine(productRepository.GetById("1").Sku);  // TEST123
+Console.WriteLine(productRepository.GetById("1").Name);  // TEST123
 ```
 
 ## LINQ to Mocks
