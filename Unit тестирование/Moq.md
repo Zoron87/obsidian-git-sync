@@ -19,7 +19,7 @@ IProductRepostitory productRepository = Moq.Mock.Of<IProductRepository>(obj => o
 obj.GetById("2") == new Product("2", "TEST321"));
 
 // Проверяем
-Console.WriteLine(productRepository.GetById("2").Sku); // TEST321
+Console.WriteLine(productRepository.GetById("2").Name); // TEST321
 ```
 ## Волшебное It
 
