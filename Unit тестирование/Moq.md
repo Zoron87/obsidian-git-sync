@@ -58,6 +58,7 @@ Console.WriteLine(myCompany.GiveMeSalary().ToString("C")); // $1000
 
 var myCompanyMock = new Moq.Mock<MyCompany>();
 myCompanyMock.Setup(obj => obj.GiveMeSalary()).Returns(2000));
+
 var myDreamsCompany = myCompanyMock.Object;
 Console.WriteLine(myDreamCompany.GiveMeSalary().ToString("C")); // $2000 
 ```
