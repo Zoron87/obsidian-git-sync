@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Base Csharp/Замыкания (Closure).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Base Csharp/Замыкания (Closure).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Base Csharp/Замыкания (Closure).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
+                "file": "Csharp/Base Csharp/Замыкания (Closure).md"
               }
             }
           },
@@ -161,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Base Csharp/Замыкания (Closure).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,9 +247,10 @@
   },
   "active": "761c48bf8a305ba9",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+    "Csharp/Base Csharp/Замыкания (Closure).md",
     "Csharp/Base Csharp/String (Строки).md",
     "_resource/_files/Pasted image 20240219091528.png",
-    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Структура (struct).md",
