@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "02ca7734fd5741bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -247,11 +235,11 @@
   },
   "active": "761c48bf8a305ba9",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+    "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
+    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/String (Строки).md",
     "_resource/_files/Pasted image 20240219091528.png",
-    "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
