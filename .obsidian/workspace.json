@@ -23,9 +23,11 @@
             "id": "761c48bf8a305ba9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -71,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Moq",
+                "query": "события",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/Moq.md"
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
               }
             }
           },
@@ -159,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
