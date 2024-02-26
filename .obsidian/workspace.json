@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SOLID",
+                "query": "finalize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md"
+                "file": "Csharp/Base Csharp/Деструктор.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/Base Csharp/Деструктор.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,8 +223,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
-    "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
+    "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
     "Unit тестирование/Moq.md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
