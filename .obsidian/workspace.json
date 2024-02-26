@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit тестирование/Moq.md"
+                "file": "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Unit тестирование/Moq.md",
+                "file": "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,6 +222,8 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Unit тестирование/Moq.md",
+    "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
@@ -234,7 +236,6 @@
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "Unit тестирование/Assert.md",
     "Unit тестирование/Что такое unit-тест.md",
-    "Unit тестирование/Moq.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Visual Studio/Фишки Visual Studio.md",
     "Unit тестирование/Что такое AutoFixture.md",
