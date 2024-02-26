@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "solid",
+                "query": "абстра",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +212,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5b664be2ae8800d9",
+  "active": "bab9aa574df7f6e1",
   "lastOpenFiles": [
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
