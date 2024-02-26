@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md"
+                "file": "Csharp/ASP.NET/Dependency Injection (DI).md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Что такое SOLID.md",
+                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,7 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
     "Unit тестирование/Moq.md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
@@ -252,7 +253,6 @@
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
-    "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Задача на приведение типов.md",
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "_resource/_files/Pasted image 20240204152718.png",
