@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "абстра",
+                "query": "as is",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
+                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,7 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Деструктор.md",
@@ -231,7 +232,6 @@
     "Csharp/Base Csharp/Замыкания (Closure).md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
-    "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/Base Csharp/String (Строки).md",
     "_resource/_files/Pasted image 20240219091528.png",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
