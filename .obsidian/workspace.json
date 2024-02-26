@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/ASP.NET/Dependency Injection (DI).md"
+                "file": "Csharp/Base Csharp/Что такое SOLID.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/ASP.NET/Dependency Injection (DI).md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +223,7 @@
   },
   "active": "277be43f735a6ef4",
   "lastOpenFiles": [
+    "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
     "Unit тестирование/Moq.md",
@@ -257,7 +258,6 @@
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "_resource/_files/Pasted image 20240204152718.png",
     "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
-    "Csharp/Вопросы на самопроверку/Операторы & против и &&.md",
     "_resource/_files/Pasted image 20240202093646.png",
     "_resource/_files/Pasted image 20240202093119.png",
     "Интересные задачи/Csharp/Задачи на ООП",
