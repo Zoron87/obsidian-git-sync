@@ -11,8 +11,12 @@
             "id": "5b664be2ae8800d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md"
+              }
             }
           },
           {
@@ -128,6 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,7 +221,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bab9aa574df7f6e1",
+  "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
