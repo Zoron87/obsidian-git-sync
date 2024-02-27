@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3532fd1b5f97f0ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md"
               }
             }
           },
@@ -149,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -234,8 +221,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "3532fd1b5f97f0ac",
+  "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
+    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Вопросы на самопроверку/Что такое generics(обобщения) в Csharp.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
@@ -257,7 +245,6 @@
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "Unit тестирование/Assert.md",
     "Unit тестирование/Что такое unit-тест.md",
-    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Visual Studio/Фишки Visual Studio.md",
     "Unit тестирование/Что такое AutoFixture.md",
     "Visual Studio",
