@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ООП",
+                "query": "solid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md"
+                "file": "Csharp/Base Csharp/Что такое SOLID.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Csharp/Base Csharp/Что такое SOLID.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,6 +236,7 @@
   },
   "active": "3532fd1b5f97f0ac",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
@@ -269,7 +270,6 @@
     "Csharp/ASP.NET/AddTransient, AddScoped, AddSingleton.md",
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
-    "Интересные задачи/Csharp/Задача на приведение типов.md",
     "_resource/_files/Pasted image 20240204152718.png",
     "_resource/_files/Pasted image 20240202093646.png",
     "_resource/_files/Pasted image 20240202093119.png",
