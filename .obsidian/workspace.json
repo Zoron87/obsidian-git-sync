@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3532fd1b5f97f0ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "as is",
+                "query": "ООП",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md"
+                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md"
               }
             }
           },
@@ -136,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Операторы as и is.md",
+                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,8 +234,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5b664be2ae8800d9",
+  "active": "3532fd1b5f97f0ac",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
+    "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Что такое SOLID.md",
@@ -255,9 +270,7 @@
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
     "Интересные задачи/Csharp/Задача на приведение типов.md",
-    "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "_resource/_files/Pasted image 20240204152718.png",
-    "Интересные задачи/Csharp/Какова алгоритмическая сложность для операций чтения и записи для коллекции Dictionary.md",
     "_resource/_files/Pasted image 20240202093646.png",
     "_resource/_files/Pasted image 20240202093119.png",
     "Интересные задачи/Csharp/Задачи на ООП",
