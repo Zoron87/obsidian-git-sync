@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "полиморф",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md"
+                "file": "Интересные задачи/Csharp/Где ошибка в приведении типов.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Что такое ООП.md",
+                "file": "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,11 +222,18 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20240302155541.png",
+    "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
+    "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
+    "Интересные задачи/Csharp/Задача на приведение типов.md",
+    "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
+    "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
+    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Что такое generics(обобщения) в Csharp.md",
-    "Csharp/Вопросы на самопроверку/Что такое ООП.md",
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
@@ -244,16 +250,9 @@
     "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "Unit тестирование/Assert.md",
-    "Unit тестирование/Что такое unit-тест.md",
-    "Visual Studio/Фишки Visual Studio.md",
-    "Unit тестирование/Что такое AutoFixture.md",
     "Visual Studio",
-    "SQL/Выборка данных по условию.md",
-    "Csharp/Вопросы на самопроверку/Что выведен данный код. (Интерфейсы).md",
     "SQL",
-    "Unit тестирование/TDD (test-driven development) - Разработка через тестирование.md",
     "_resource/_files/Pasted image 20240209101457.png",
-    "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов",
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
