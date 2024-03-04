@@ -220,10 +220,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5b664be2ae8800d9",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
-    "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
+    "REST/Как AWS может помочь в управлении RESTful API.md",
     "REST/Что такое REST API.md",
+    "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
     "REST",
     "_resource/_files/Pasted image 20240302155541.png",
     "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
@@ -251,7 +252,6 @@
     "Csharp/Base Csharp/Структура (struct).md",
     "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
     "Csharp/Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
-    "Unit тестирование/Assert.md",
     "Visual Studio",
     "SQL",
     "_resource/_files/Pasted image 20240209101457.png",
