@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md"
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,10 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
-    "REST/Что такое REST API.md",
     "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
+    "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
+    "Csharp/Асинхронное программирование",
+    "REST/Что такое REST API.md",
     "REST/Как AWS может помочь в управлении RESTful API.md",
     "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
     "REST",
@@ -251,7 +253,6 @@
     "_resource/_files/Pasted image 20240219091528.png",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Csharp/Base Csharp/Структура (struct).md",
-    "Csharp/Вопросы на самопроверку/Чем отличаются оператор == и вызов метода object.Equals.md",
     "Visual Studio",
     "SQL",
     "_resource/_files/Pasted image 20240209101457.png",
@@ -265,7 +266,6 @@
     "_resource/_files/Pasted image 20240125212008.png",
     "Csharp/Base Csharp/Обработчики событий",
     "Csharp/Base Csharp/Абстрактные классы",
-    "Docker",
     "_resource/_files/Pasted image 20231223012126.png",
     "_resource/_files/Pasted image 20231213152131.png",
     "_inbox/Без названия.canvas"
