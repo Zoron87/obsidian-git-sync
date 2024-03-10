@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Структура (struct).md",
+                "file": "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "структуры",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Структура (struct).md",
+                "file": "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Структура (struct).md",
+                "file": "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Структура (struct).md"
+                "file": "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Структура (struct).md",
+                "file": "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,6 +222,9 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20240310221938.png",
+    "Csharp/Base Csharp/Структура (struct).md",
+    "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
     "Csharp/Асинхронное программирование",
@@ -250,10 +252,7 @@
     "Csharp/Base Csharp/Замыкания (Closure).md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "Csharp/Base Csharp/Интерфейсы/Интерфейсы.md",
-    "Csharp/Base Csharp/String (Строки).md",
     "_resource/_files/Pasted image 20240219091528.png",
-    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
-    "Csharp/Base Csharp/Структура (struct).md",
     "Visual Studio",
     "SQL",
     "_resource/_files/Pasted image 20240209101457.png",
