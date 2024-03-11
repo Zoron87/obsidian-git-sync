@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cil",
+                "query": "CIL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -223,6 +223,8 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Что такое SOLID.md",
+    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Base Csharp/Структура (struct).md",
@@ -240,8 +242,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
-    "Csharp/Base Csharp/Что такое SOLID.md",
-    "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "Csharp/Вопросы на самопроверку/Что такое generics(обобщения) в Csharp.md",
     "Csharp/Вопросы на самопроверку/Операторы as и is.md",
