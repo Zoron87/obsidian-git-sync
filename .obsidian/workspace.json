@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CIL",
+                "query": "async",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md"
+                "file": "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md"
               }
             }
           },
@@ -136,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+                "file": "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,12 +222,13 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Что такое SOLID.md",
+    "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
+    "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
+    "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Base Csharp/Структура (struct).md",
-    "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
     "Csharp/Асинхронное программирование",
     "REST/Что такое REST API.md",
