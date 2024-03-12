@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Create Table.md",
+                "file": "SQL/ALTER TABLE (изменение таблиц).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Create Table.md",
+                "file": "SQL/ALTER TABLE (изменение таблиц).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Create Table.md",
+                "file": "SQL/ALTER TABLE (изменение таблиц).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Create Table.md"
+                "file": "SQL/ALTER TABLE (изменение таблиц).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Create Table.md",
+                "file": "SQL/ALTER TABLE (изменение таблиц).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,9 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
-    "SQL/Разница между типами данных char и varchar.md",
     "SQL/Create Table.md",
+    "SQL/ALTER TABLE (изменение таблиц).md",
+    "SQL/Разница между типами данных char и varchar.md",
     "Csharp/ASP.NET/CORS (Cross-Origin Resource Sharing).md",
     "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
@@ -251,7 +252,6 @@
     "Csharp/Base Csharp/Абстрактные классы/Абстрактные классы.md",
     "Csharp/ASP.NET/Dependency Injection (DI).md",
     "Csharp/Base Csharp/Деструктор.md",
-    "Csharp/Base Csharp/Различие переопределения и скрытия методов (virtual и new).md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_resource/_files/Pasted image 20240219091528.png",
     "Visual Studio",
