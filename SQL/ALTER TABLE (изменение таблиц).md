@@ -19,6 +19,38 @@ RENAME COLUMN old_column_name TO new_column_name;
 - _`old_column_name` - актуальное название столбца таблицы_
 - _`new_column_name` - новое название столбца таблицы_
 
+**_примерчики_**
+
+```sql
+-- создание таблички profile
+CREATE TABLE profile (
+	id INT,
+	username VARCHAR(255),
+	email VARCHAR(255),
+	reg_dt TIMESTAMP
+);
+
+-- изменение названия таблицы
+ALTER TABLE profile
+RENAME TO users;
+
+-- изменение названия столбца таблицы users
+ALTER TABLE users
+RENAME COLUMN reg_dt TO registration_date;
+
+-- выборка наименований атрибутов таблицы users
+SELECT column_name FROM information_schema.columns
+WHERE table_name = 'users';
+
+/* результат:
+column_name      |
+-----------------|
+id               |
+registration_date|
+username         |
+email            |
+*/
+```
 
 _next_, рассмотрим добавление нового атрибута в таблицу и удаление существующего ⤵
 
