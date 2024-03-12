@@ -12,11 +12,6 @@ TRUNCATE table_name;
 3. `TRUNCATE` _быстрее по сравнению с командой_ `DELETE` _(меньшее количество блокировок)_
 4. _после того как будут удалены данные с помощью_ `TRUNCATE`_, они никогда не смогут быть восстановлены обратно, тогда как в случае с_ `DELETE` _их можно будет восстановить_
 
-> полная документация по команде `TRUNCATE`:
-> 
-> - для PostgreSQL - **[тык](https://www.postgresql.org/docs/15/sql-truncate.html)**
-> - для MySQL - **[тык](https://dev.mysql.com/doc/refman/8.0/en/truncate-table.html)**
-> - для SQLite - зашита в команде `DELETE`, при использовании ее без команды `WHERE`  с условием
 
 ![](https://ucarecdn.com/92b8e80e-28ea-4c0d-8cac-3ce7f32ab6c3/)
 
