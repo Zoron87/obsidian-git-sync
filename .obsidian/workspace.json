@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/ALTER TABLE (изменение таблиц).md",
+                "file": "SQL/UPDATE TABLE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/ALTER TABLE (изменение таблиц).md",
+                "file": "SQL/UPDATE TABLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/ALTER TABLE (изменение таблиц).md",
+                "file": "SQL/UPDATE TABLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/ALTER TABLE (изменение таблиц).md"
+                "file": "SQL/UPDATE TABLE.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/ALTER TABLE (изменение таблиц).md",
+                "file": "SQL/UPDATE TABLE.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,10 +220,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
-    "SQL/UPDATE TABLE.md",
     "SQL/ALTER TABLE (изменение таблиц).md",
+    "SQL/UPDATE TABLE.md",
     "SQL/CREATE TABLE.md",
     "SQL/TRUNCATE TABLE.md",
     "SQL/CASE WHEN ... THEN ... ELSE ... END.md",
