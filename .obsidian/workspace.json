@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Работа с датами в SQL.md",
+                "file": "SignalR/Типы транспортных протокол в SignalR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Работа с датами в SQL.md",
+                "file": "SignalR/Типы транспортных протокол в SignalR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Работа с датами в SQL.md",
+                "file": "SignalR/Типы транспортных протокол в SignalR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Работа с датами в SQL.md"
+                "file": "SignalR/Типы транспортных протокол в SignalR.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Работа с датами в SQL.md",
+                "file": "SignalR/Типы транспортных протокол в SignalR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,10 @@
   },
   "active": "5b664be2ae8800d9",
   "lastOpenFiles": [
-    "Csharp/Вопросы на самопроверку/Что выведется на консоль. Тип данных dynamic.md",
     "SQL/Работа с датами в SQL.md",
+    "SignalR/Типы транспортных протокол в SignalR.md",
+    "SignalR",
+    "Csharp/Вопросы на самопроверку/Что выведется на консоль. Тип данных dynamic.md",
     "SQL/UPDATE TABLE.md",
     "SQL/ALTER TABLE (изменение таблиц).md",
     "SQL/CREATE TABLE.md",
@@ -251,7 +253,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Вопросы на самопроверку/Что такое ООП.md",
-    "Csharp/Вопросы на самопроверку/Что такое инкапсуляция.md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_resource/_files/Pasted image 20240219091528.png",
     "Visual Studio",
@@ -266,7 +267,6 @@
     "Интересные задачи/Csharp/Задачи на ООП",
     "_resource/_files/Pasted image 20240125212008.png",
     "Csharp/Base Csharp/Обработчики событий",
-    "Csharp/Base Csharp/Абстрактные классы",
     "_resource/_files/Pasted image 20231223012126.png",
     "_inbox/Без названия.canvas"
   ]
