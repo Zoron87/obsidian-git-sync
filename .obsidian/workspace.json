@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e7c476a0423cc4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Csharp/Base Csharp/Кортежи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SignalR/Что такое веб-сокет.md",
+                "file": "Csharp/Base Csharp/Кортежи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SignalR/Что такое веб-сокет.md",
+                "file": "Csharp/Base Csharp/Кортежи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SignalR/Что такое веб-сокет.md"
+                "file": "Csharp/Base Csharp/Кортежи.md"
               }
             }
           },
@@ -135,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SignalR/Что такое веб-сокет.md",
+                "file": "Csharp/Base Csharp/Кортежи.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,8 +233,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "5b664be2ae8800d9",
+  "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Кортежи.md",
     "SignalR/Типы транспортных протокол в SignalR.md",
     "SignalR/Что такое веб-сокет.md",
     "SQL/Работа с датами в SQL.md",
@@ -252,7 +266,6 @@
     "Интересные задачи/Csharp/Задача на приведение типов.md",
     "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_resource/_files/Pasted image 20240219091528.png",
     "Visual Studio",
