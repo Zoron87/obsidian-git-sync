@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/ValueTuple.md",
+                "file": "Csharp/Асинхронное программирование/Поток (Нить, Thread).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/ValueTuple.md",
+                "file": "Csharp/Асинхронное программирование/Поток (Нить, Thread).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/ValueTuple.md",
+                "file": "Csharp/Асинхронное программирование/Поток (Нить, Thread).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/ValueTuple.md"
+                "file": "Csharp/Асинхронное программирование/Поток (Нить, Thread).md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/ValueTuple.md",
+                "file": "Csharp/Асинхронное программирование/Поток (Нить, Thread).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,11 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Кортежи (Tuple).md",
+    "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
+    "Csharp/Асинхронное программирование/Поток (Нить, Thread).md",
+    "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Base Csharp/ValueTuple.md",
+    "Csharp/Base Csharp/Кортежи (Tuple).md",
     "SignalR/Типы транспортных протокол в SignalR.md",
     "SignalR/Что такое веб-сокет.md",
     "SQL/Работа с датами в SQL.md",
@@ -249,8 +252,6 @@
     "SQL/CASE WHEN ... THEN ... ELSE ... END.md",
     "SQL/Разница между типами данных char и varchar.md",
     "Csharp/ASP.NET/CORS (Cross-Origin Resource Sharing).md",
-    "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
-    "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Интересные задачи/Csharp/Что означают следующие аббревиатуры в .NET - IL, CIL, MSIL, CLI и JIT.md",
     "Csharp/Base Csharp/Что такое SOLID.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
@@ -265,7 +266,6 @@
     "_resource/_files/Pasted image 20240302155541.png",
     "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
     "Интересные задачи/Csharp/Задача на приведение типов.md",
-    "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_resource/_files/Pasted image 20240219091528.png",
     "Visual Studio",
