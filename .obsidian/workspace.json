@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md",
+                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md",
+                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md",
+                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md"
+                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md",
+                "file": "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,9 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "_resource/_files/GOM_0GsECmAuRa.png",
     "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
-    "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность.md",
+    "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Base Csharp/ValueTuple.md",
     "Csharp/Base Csharp/Кортежи (Tuple).md",
@@ -265,7 +266,6 @@
     "REST",
     "_resource/_files/Pasted image 20240302155541.png",
     "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
-    "Интересные задачи/Csharp/Задача на приведение типов.md",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_resource/_files/Pasted image 20240219091528.png",
     "Visual Studio",
