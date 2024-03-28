@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md"
+                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,7 +237,7 @@
   "lastOpenFiles": [
     "_resource/_files/GOM_fFXMfgmbPl.png",
     "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность. Пул потоков..md",
-    "Csharp/Асинхронное программирование/Асинхронный шаблон TAP.md",
+    "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
     "_resource/_files/GOM_ChKxgHMkZG.png",
     "Csharp/Параллельное программирование/Что такое параллельное программирование.md",
     "Csharp/Параллельное программирование",
