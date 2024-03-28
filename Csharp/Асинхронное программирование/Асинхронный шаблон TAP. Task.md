@@ -16,3 +16,24 @@
 
 Task (задача) - конструкция, которая реализует модель параллельной обработки, основанной на обещаниях (Promise). Задача обещает, что работа будет выполнена позже, позволяя взаимодействовать с помощью "обещания" с чистым API.
 Для работы с задачами в .NET используется класс Task.
+
+### Способы создания задач:
+
+- Создание экземпляра Task и вызов на нем метода Start():
+```C#
+Task task = new Task(new Action(Download));
+```
+- С помощью фабрики задач и метода StartNew():
+```C#
+TaskFactory taskFactory = new TaskFactory();
+taskFactory.StartNew(new Action(Download));
+```
+- Вызов статического метода Task.Run():
+```C#
+Task.Run(new Action(Download));
+```
+- Вызов метода RunSynchronously() для выполнения в основном потоке:
+```C#
+Task task = new Task(new Action(Download));
+task.
+```
