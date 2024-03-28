@@ -35,5 +35,5 @@ Task.Run(new Action(Download));
 - Вызов метода RunSynchronously() для выполнения в основном потоке:
 ```C#
 Task task = new Task(new Action(Download));
-task.
+task.RunSynchronously();
 ```
