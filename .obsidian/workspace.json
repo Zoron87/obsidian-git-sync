@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
+                "file": "Csharp/Асинхронное программирование/Фабрика задач.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
+                "file": "Csharp/Асинхронное программирование/Фабрика задач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
+                "file": "Csharp/Асинхронное программирование/Фабрика задач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Продолжения - Continuations.md"
+                "file": "Csharp/Асинхронное программирование/Фабрика задач.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
+                "file": "Csharp/Асинхронное программирование/Фабрика задач.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,9 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
-    "Csharp/Асинхронное программирование/Общие моменты.md",
     "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
+    "Csharp/Асинхронное программирование/Фабрика задач.md",
+    "Csharp/Асинхронное программирование/Общие моменты.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions.md",
     "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
@@ -266,7 +267,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Base Csharp/Структура (struct).md",
-    "Csharp/Вопросы на самопроверку/Разница между Inversion of Control (IoC) и Dependency Injection (DI).md",
     "Csharp/Асинхронное программирование",
     "REST",
     "_resource/_files/Pasted image 20240302155541.png",
