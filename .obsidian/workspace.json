@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
+                "file": "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
+                "file": "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
+                "file": "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md"
+                "file": "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
+                "file": "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,14 +235,14 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
-    "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
     "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
+    "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
     "_resource/_files/GOM_4uMwfPdiDQ.png",
     "Csharp/Асинхронное программирование/Фабрика задач.md",
     "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
     "Csharp/Асинхронное программирование/Общие моменты.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
-    "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions.md",
+    "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
     "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
     "_resource/_files/GOM_fFXMfgmbPl.png",
     "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность. Пул потоков..md",
