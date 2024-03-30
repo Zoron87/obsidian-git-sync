@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md"
+                "file": "Csharp/Асинхронное программирование/Value Task (Значимая задача).md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -236,7 +236,7 @@
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
     "Csharp/Асинхронное программирование/Фабрика задач.md",
-    "Csharp/Асинхронное программирование/Без названия.md",
+    "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
     "Csharp/Асинхронное программирование/Продолжения - Continuations.md",
     "Csharp/Асинхронное программирование/Общие моменты.md",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
