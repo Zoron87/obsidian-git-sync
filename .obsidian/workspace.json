@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md"
+                "file": "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,9 +235,10 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+    "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
     "_resource/_files/GOM_gmzbNYuglm.png",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
-    "Csharp/Асинхронное программирование/Ключевые слова async await.md",
     "Csharp/Асинхронное программирование/Создание дочерних и вложенных задач.md",
     "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
     "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
@@ -279,7 +280,6 @@
     "Интересные задачи/Csharp/Приведение типов",
     "Unit тестирование",
     "_resource/_files/Pasted image 20240206154443.png",
-    "_resource/_files/Pasted image 20240204152718.png",
     "Интересные задачи/Csharp/Задачи на ООП",
     "_inbox/Без названия.canvas"
   ]
