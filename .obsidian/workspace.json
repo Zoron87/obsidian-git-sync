@@ -233,8 +233,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "_resource/_files/GOM_gmzbNYuglm.png",
     "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
     "Csharp/Асинхронное программирование/Ключевые слова async await.md",
     "Csharp/Асинхронное программирование/Создание дочерних и вложенных задач.md",
@@ -266,7 +267,6 @@
     "SQL/TRUNCATE TABLE.md",
     "SQL/CASE WHEN ... THEN ... ELSE ... END.md",
     "SQL/Разница между типами данных char и varchar.md",
-    "Csharp/ASP.NET/CORS (Cross-Origin Resource Sharing).md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Асинхронное программирование",
     "REST",
