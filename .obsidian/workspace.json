@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Задача-марионетка.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Задача-марионетка.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Задача-марионетка.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Задача-марионетка.md"
+                "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Задача-марионетка.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,8 +235,9 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
-    "Csharp/Асинхронное программирование/Конечный автомат (Finite-state machine).md",
     "Csharp/Асинхронное программирование/Задача-марионетка.md",
+    "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
+    "Csharp/Асинхронное программирование/Конечный автомат (Finite-state machine).md",
     "Csharp/Асинхронное программирование/Ожидаемые (awaitable) методы.md",
     "_resource/_files/GOM_2Z8HU0Yake.png",
     "_resource/_files/GOM_E68BxtZdAe.png",
@@ -270,7 +271,6 @@
     "SQL/UPDATE TABLE.md",
     "SQL/ALTER TABLE (изменение таблиц).md",
     "SQL/CREATE TABLE.md",
-    "SQL/TRUNCATE TABLE.md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Асинхронное программирование",
     "REST",
