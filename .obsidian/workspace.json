@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md"
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+                "file": "Csharp/Асинхронное программирование/Асинхронные методы и машина состояний.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,10 +233,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e7c476a0423cc4d0",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
-    "Csharp/Асинхронное программирование/Создание дочерних и вложенных задач.md",
     "Csharp/Асинхронное программирование/Ключевые слова async await.md",
+    "Csharp/Асинхронное программирование/Создание дочерних и вложенных задач.md",
     "Csharp/Асинхронное программирование/Параметры TaskCreatedOptions и LongRunning.md",
     "Csharp/Асинхронное программирование/2. Вопросы по асинхронному программированию.md",
     "Csharp/Асинхронное программирование/Value Task (Значимая задача).md",
