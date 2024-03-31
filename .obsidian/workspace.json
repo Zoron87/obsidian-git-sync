@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -235,6 +235,7 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "_resource/_files/GOM_sTtgLbakd4.png",
     "Csharp/Асинхронное программирование/Задача-марионетка.md",
     "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
     "Csharp/Асинхронное программирование/Конечный автомат (Finite-state machine).md",
@@ -270,7 +271,6 @@
     "Csharp/Вопросы на самопроверку/Что выведется на консоль. Тип данных dynamic.md",
     "SQL/UPDATE TABLE.md",
     "SQL/ALTER TABLE (изменение таблиц).md",
-    "SQL/CREATE TABLE.md",
     "_resource/_files/Pasted image 20240310221938.png",
     "Csharp/Асинхронное программирование",
     "REST",
