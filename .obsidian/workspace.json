@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
+                "file": "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
+                "file": "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
+                "file": "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md"
+                "file": "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
+                "file": "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -235,10 +235,11 @@
   },
   "active": "e7c476a0423cc4d0",
   "lastOpenFiles": [
+    "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
+    "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
     "_resource/_files/GOM_b2jW306qUL.png",
     "_resource/_files/GOM_igY8KeDRlw.png",
     "Csharp/Асинхронное программирование/Асинхронный метод Main.md",
-    "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
     "_resource/_files/GOM_sTtgLbakd4.png",
     "Csharp/Асинхронное программирование/Задача-марионетка.md",
     "Csharp/Асинхронное программирование/Конечный автомат (Finite-state machine).md",
@@ -263,7 +264,6 @@
     "_resource/_files/GOM_ChKxgHMkZG.png",
     "Csharp/Параллельное программирование/Что такое параллельное программирование.md",
     "Csharp/Параллельное программирование",
-    "_resource/_files/GOM_0GsECmAuRa.png",
     "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
     "Csharp/Base Csharp/ValueTuple.md",
     "Csharp/Base Csharp/Кортежи (Tuple).md",
