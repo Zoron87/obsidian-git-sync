@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "012e86e0ecd61c70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,7 +243,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "e7c476a0423cc4d0",
+  "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
     "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
