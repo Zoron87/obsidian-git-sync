@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Скоординированная отмена.md",
+                "file": "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Скоординированная отмена.md",
+                "file": "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Скоординированная отмена.md",
+                "file": "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Скоординированная отмена.md"
+                "file": "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Скоординированная отмена.md",
+                "file": "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,6 +248,7 @@
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "Csharp/Асинхронное программирование/Скоординированная отмена.md",
+    "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
     "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
     "Csharp/Асинхронное программирование/Ограничения в использовании оператора await.md",
     "_resource/_files/GOM_b2jW306qUL.png",
@@ -284,7 +285,6 @@
     "SignalR/Что такое веб-сокет.md",
     "SQL/Работа с датами в SQL.md",
     "SignalR",
-    "Csharp/Вопросы на самопроверку/Что выведется на консоль. Тип данных dynamic.md",
     "Csharp/Асинхронное программирование",
     "REST",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
