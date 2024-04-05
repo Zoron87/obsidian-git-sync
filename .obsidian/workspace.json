@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md"
+                "file": "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Без названия.md",
+                "file": "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,8 +247,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20240405151822.png",
     "Csharp/Асинхронное программирование/Эквиваленты потокобезопасным коллекциям.md",
-    "Csharp/Асинхронное программирование/Без названия.md",
+    "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
     "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
     "Csharp/Асинхронное программирование/Скоординированная отмена.md",
     "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
@@ -283,7 +284,6 @@
     "Csharp/Асинхронное программирование/Что такое транзакции и какие бывают уровни изоляции транзакций в контексте баз данных.md",
     "Csharp/Base Csharp/ValueTuple.md",
     "Csharp/Base Csharp/Кортежи (Tuple).md",
-    "SignalR/Типы транспортных протокол в SignalR.md",
     "SignalR",
     "Csharp/Асинхронное программирование",
     "REST",
