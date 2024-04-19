@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+                "file": "Visual Studio Code/Полезные плагины.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+                "file": "Visual Studio Code/Полезные плагины.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+                "file": "Visual Studio Code/Полезные плагины.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md"
+                "file": "Visual Studio Code/Полезные плагины.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+                "file": "Visual Studio Code/Полезные плагины.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,8 +247,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+    "Visual Studio Code/Полезные плагины.md",
+    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
@@ -283,7 +284,6 @@
     "Csharp/Асинхронное программирование/Общие моменты.md",
     "Csharp/Асинхронное программирование/Асинхронный шаблон TAP. Task.md",
     "Csharp/Асинхронное программирование/Основные понятия. Поток (Нить, Thread). Синхронность. Асинхронность. Пул потоков..md",
-    "Csharp/Параллельное программирование/Что такое параллельное программирование.md",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
