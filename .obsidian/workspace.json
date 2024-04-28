@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+                "file": "Csharp/Асинхронное программирование/Что не так с async void.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+                "file": "Csharp/Асинхронное программирование/Что не так с async void.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+                "file": "Csharp/Асинхронное программирование/Что не так с async void.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md"
+                "file": "Csharp/Асинхронное программирование/Что не так с async void.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+                "file": "Csharp/Асинхронное программирование/Что не так с async void.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,6 +247,8 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
+    "Csharp/Асинхронное программирование/Что не так с async void.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
@@ -274,8 +276,6 @@
     "_resource/_files/Pasted image 20240405151822.png",
     "Csharp/Асинхронное программирование/Эквиваленты потокобезопасным коллекциям.md",
     "Csharp/Асинхронное программирование/Взаимная блокировка (Deadlock).md",
-    "Csharp/Асинхронное программирование/Скоординированная отмена.md",
-    "Csharp/Асинхронное программирование/Асинхронные лямбда выражения.md",
     "_resource/_files/GOM_b2jW306qUL.png",
     "_resource/_files/GOM_igY8KeDRlw.png",
     "_resource/_files/GOM_sTtgLbakd4.png",
