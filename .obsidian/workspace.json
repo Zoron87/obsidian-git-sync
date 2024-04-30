@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Sync over async.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Sync over async.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Sync over async.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Sync over async.md"
+                "file": "Csharp/Base Csharp/Как работает захват переменных.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Асинхронное программирование/Sync over async.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -247,8 +247,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "Csharp/Асинхронное программирование/Что не так с async void.md",
     "Csharp/Асинхронное программирование/Sync over async.md",
+    "Csharp/Base Csharp/Как работает захват переменных.md",
+    "Csharp/Асинхронное программирование/Что не так с async void.md",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
@@ -275,7 +276,6 @@
     "Паттерны проектирования/Порождающий паттерн Builder (Fluent Builder).md",
     "Csharp/Асинхронное программирование/Параллельное выполнение кода (Класс Parallel).md",
     "_resource/_files/Pasted image 20240405151822.png",
-    "Csharp/Асинхронное программирование/Эквиваленты потокобезопасным коллекциям.md",
     "_resource/_files/GOM_b2jW306qUL.png",
     "_resource/_files/GOM_igY8KeDRlw.png",
     "_resource/_files/GOM_sTtgLbakd4.png",
