@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/Как работает захват переменных.md"
+                "file": "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/Как работает захват переменных.md",
+                "file": "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,7 +248,7 @@
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "Csharp/Асинхронное программирование/Sync over async.md",
-    "Csharp/Base Csharp/Как работает захват переменных.md",
+    "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
     "Csharp/Асинхронное программирование/Что не так с async void.md",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
