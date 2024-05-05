@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/Методы HTTP.md",
+                "file": "API/Безопасные и идемпотентные методы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Методы HTTP.md",
+                "file": "API/Безопасные и идемпотентные методы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/Методы HTTP.md",
+                "file": "API/Безопасные и идемпотентные методы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Методы HTTP.md"
+                "file": "API/Безопасные и идемпотентные методы.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "API/Методы HTTP.md",
+                "file": "API/Безопасные и идемпотентные методы.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,11 +220,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "API/Методы HTTP.md",
+    "API/Безопасные и идемпотентные методы.md",
     "API",
     "DevOPS/Модель OSI.md",
-    "API/Методы HTTP.md",
     "Csharp/Base Csharp/Файловые пространства имен (file-scoped namespaces).md",
     "DevOPS",
     "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
@@ -267,7 +268,6 @@
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "Visual Studio",
     "SQL",
-    "Интересные задачи/Csharp/Приведение типов",
     "_inbox/Без названия.canvas"
   ]
 }
