@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOPS/Методы HTTP.md",
+                "file": "API/Методы HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOPS/Методы HTTP.md",
+                "file": "API/Методы HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOPS/Методы HTTP.md",
+                "file": "API/Методы HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOPS/Методы HTTP.md"
+                "file": "API/Методы HTTP.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "DevOPS/Методы HTTP.md",
+                "file": "API/Методы HTTP.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,10 +220,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "012e86e0ecd61c70",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "API",
     "DevOPS/Модель OSI.md",
-    "DevOPS/Методы HTTP.md",
+    "API/Методы HTTP.md",
     "Csharp/Base Csharp/Файловые пространства имен (file-scoped namespaces).md",
     "DevOPS",
     "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
@@ -248,7 +249,6 @@
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Visual Studio Code/Полезные плагины.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
