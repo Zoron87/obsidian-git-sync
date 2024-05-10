@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/Безопасные и идемпотентные методы.md",
+                "file": "Javascript/Метод `slice()`.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Безопасные и идемпотентные методы.md",
+                "file": "Javascript/Метод `slice()`.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API/Безопасные и идемпотентные методы.md",
+                "file": "Javascript/Метод `slice()`.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Безопасные и идемпотентные методы.md"
+                "file": "Javascript/Метод `slice()`.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "API/Безопасные и идемпотентные методы.md",
+                "file": "Javascript/Метод `slice()`.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "API/Методы HTTP.md",
     "API/Безопасные и идемпотентные методы.md",
+    "Javascript/Метод `slice()`.md",
+    "API/Методы HTTP.md",
     "API",
     "DevOPS/Модель OSI.md",
     "Csharp/Base Csharp/Файловые пространства имен (file-scoped namespaces).md",
@@ -249,7 +250,6 @@
     "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Visual Studio Code/Полезные плагины.md",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
