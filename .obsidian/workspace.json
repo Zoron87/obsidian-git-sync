@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Метод `slice()`.md",
+                "file": "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Метод `slice()`.md",
+                "file": "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Метод `slice()`.md",
+                "file": "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Метод `slice()`.md"
+                "file": "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Javascript/Метод `slice()`.md",
+                "file": "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,10 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "API/Безопасные и идемпотентные методы.md",
     "Javascript/Метод `slice()`.md",
+    "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
+    "Csharp/Base Csharp/DI",
+    "API/Безопасные и идемпотентные методы.md",
     "API/Методы HTTP.md",
     "API",
     "DevOPS/Модель OSI.md",
@@ -249,7 +251,6 @@
     "Интересные задачи/Csharp/Где ошибка в приведении типов.md",
     "Интересные задачи/Csharp/В чем различие между операцией cast (приведения типов) и оператором as.md",
     "Интересные задачи/Csharp/Приведение типов/В чем различие между операцией cast (приведения типов) и оператором as.md",
-    "Visual Studio Code/Полезные плагины.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
@@ -267,7 +268,6 @@
     "REST",
     "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "Visual Studio",
-    "SQL",
     "_inbox/Без названия.canvas"
   ]
 }
