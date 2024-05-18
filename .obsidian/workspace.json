@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Csharp/Base Csharp/nameof.md",
+                "file": "Csharp/Base Csharp/Nameof.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Csharp/Base Csharp/nameof.md",
+                "file": "Csharp/Base Csharp/Nameof.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Csharp/Base Csharp/nameof.md",
+                "file": "Csharp/Base Csharp/Nameof.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Csharp/Base Csharp/nameof.md"
+                "file": "Csharp/Base Csharp/Nameof.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Csharp/Base Csharp/nameof.md",
+                "file": "Csharp/Base Csharp/Nameof.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +223,7 @@
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "Csharp/Base Csharp/Замыкания (Closure).md",
-    "Csharp/Base Csharp/nameof.md",
+    "Csharp/Base Csharp/Nameof.md",
     "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
     "Javascript/Метод `slice()`.md",
     "Csharp/Base Csharp/DI",
