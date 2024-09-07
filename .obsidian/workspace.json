@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционная модель.md",
+                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционная модель.md",
+                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционная модель.md",
+                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционная модель.md"
+                "file": "SQL/Реляционные базы данных/Нормализация БД.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционная модель.md",
+                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,9 +222,11 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "SQL/Реляционные базы данных/Реляционные БД.md",
+    "SQL/Реляционные базы данных/Нормализация БД.md",
+    "SQL/Реляционные базы данных/Реляционная модель.md",
     "_resource/_files/Pasted image 20240908012037.png",
     "Csharp/Base Csharp/Nameof.md",
-    "SQL/Реляционные базы данных/Реляционная модель.md",
     "SQL/Реляционные базы данных",
     "SQL/Без названия.md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
@@ -251,7 +253,6 @@
     "Интересные задачи/Csharp/Что выведет код.md",
     "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
     "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
-    "Интересные задачи/Csharp/Простой способ сравнить массивы в Csharp.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
@@ -262,7 +263,6 @@
     "_resource/_files/GOM_E68BxtZdAe.png",
     "_resource/_files/GOM_aKcn3E6MVK.png",
     "_resource/_files/GOM_gmzbNYuglm.png",
-    "_resource/_files/GOM_4uMwfPdiDQ.png",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
