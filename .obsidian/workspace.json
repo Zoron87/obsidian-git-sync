@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
+                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
+                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
+                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Реляционные базы данных/Нормализация БД.md"
+                "file": "SQL/Реляционные базы данных/Реляционные БД.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Реляционные базы данных/Нормализация БД.md",
+                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,8 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "SQL/Реляционные базы данных/Реляционные БД.md",
     "SQL/Реляционные базы данных/Нормализация БД.md",
+    "SQL/Реляционные базы данных/Реляционные БД.md",
     "SQL/Реляционные базы данных/Реляционная модель.md",
     "_resource/_files/Pasted image 20240908012037.png",
     "Csharp/Base Csharp/Nameof.md",
