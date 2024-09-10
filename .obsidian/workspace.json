@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Группы операторов/Data Query Language (DQL).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Группы операторов/Data Query Language (DQL).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Группы операторов/Data Query Language (DQL).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Группы операторов/Data Query Language (DQL).md"
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Группы операторов/Data Query Language (DQL).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,8 +222,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "SQL/Внешний ключ (Foreign Key).md",
     "SQL/Группы операторов/Data Query Language (DQL).md",
+    "SQL/Группы операторов/Data Manipulation Language (DML).md",
+    "SQL/Внешний ключ (Foreign Key).md",
     "SQL/Ограничения полей в таблицах sql.md",
     "SQL/Группы операторов/Data Definition Language (DDL).md",
     "SQL/Реляционные базы данных/Реляционные БД.md",
@@ -253,7 +254,6 @@
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
     "Интересные задачи/Csharp/Что выведет программа - location - time.md",
     "Интересные задачи/Csharp/Что выведет программа - enum.md",
-    "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
