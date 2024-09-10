@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
+                "file": "SQL/Внешний ключ (Foreign Key).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
+                "file": "SQL/Внешний ключ (Foreign Key).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
+                "file": "SQL/Внешний ключ (Foreign Key).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционные БД.md"
+                "file": "SQL/Внешний ключ (Foreign Key).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Реляционные базы данных/Реляционные БД.md",
+                "file": "SQL/Внешний ключ (Foreign Key).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,13 +222,16 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
-    "SQL/Реляционные базы данных/Нормализация БД.md",
+    "SQL/Ограничения полей в таблицах sql.md",
+    "SQL/Внешний ключ (Foreign Key).md",
+    "SQL/Группы операторов/Data Definition Language (DDL).md",
     "SQL/Реляционные базы данных/Реляционные БД.md",
+    "SQL/Группы операторов",
+    "SQL/Реляционные базы данных/Нормализация БД.md",
     "SQL/Реляционные базы данных/Реляционная модель.md",
     "_resource/_files/Pasted image 20240908012037.png",
     "Csharp/Base Csharp/Nameof.md",
     "SQL/Реляционные базы данных",
-    "SQL/Без названия.md",
     "Csharp/Base Csharp/Замыкания (Closure).md",
     "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
     "Javascript/Метод `slice()`.md",
@@ -251,8 +254,6 @@
     "Интересные задачи/Csharp/Что выведет программа - enum.md",
     "Интересные задачи/Csharp/Что выведет программа - delegate.md",
     "Интересные задачи/Csharp/Что выведет код.md",
-    "Интересные задачи/Csharp/Что будет выведено на консоль в результате выполнения следующей программы и почему (as).md",
-    "Интересные задачи/Csharp/Что будет выведено на консоль (базовые интерфейсы).md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
@@ -267,7 +268,6 @@
     "SignalR",
     "Csharp/Асинхронное программирование",
     "REST",
-    "_resource/_files/Замыкание(Closure)_BP2-2-1-10 .mp4",
     "_inbox/Без названия.canvas"
   ]
 }
