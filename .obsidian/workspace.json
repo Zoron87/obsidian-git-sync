@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de41f1513caec8bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +231,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "012e86e0ecd61c70",
+  "active": "de41f1513caec8bd",
   "lastOpenFiles": [
     "SQL/Группы операторов/Data Query Language (DQL).md",
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
