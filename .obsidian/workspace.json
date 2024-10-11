@@ -23,9 +23,11 @@
             "id": "de41f1513caec8bd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
+                "file": "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md"
               }
             }
           },
@@ -146,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,6 +235,7 @@
   },
   "active": "de41f1513caec8bd",
   "lastOpenFiles": [
+    "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
     "SQL/Группы операторов/Data Query Language (DQL).md",
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
     "SQL/Внешний ключ (Foreign Key).md",
@@ -264,7 +267,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
     "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
     "Интересные задачи/Csharp/Что выведет программа - location - time.md",
-    "Интересные задачи/Csharp/Что выведет программа - enum.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
