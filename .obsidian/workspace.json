@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "de41f1513caec8bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Представления (View).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "async",
+                "query": "tag:#Абстрактные_классы",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Представления (View).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Представления (View).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Представления (View).md"
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Представления (View).md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,10 +220,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "de41f1513caec8bd",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
-    "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
+    "_resource/_files/Pasted image 20231121221104.png",
+    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "SQL/Представления (View).md",
+    "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
     "SQL/Группы операторов/Data Query Language (DQL).md",
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
     "SQL/Внешний ключ (Foreign Key).md",
@@ -265,8 +254,6 @@
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
     "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
-    "Csharp/Вопросы на самопроверку/В чем разница между ключевыми словами readonly и const в Csharp.md",
-    "Csharp/Вопросы на самопроверку/(Nullable) Что будет выведено на консоль.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
