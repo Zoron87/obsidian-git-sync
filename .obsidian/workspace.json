@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac035fea515d5439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_inbox/Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "_inbox/Без названия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "_inbox/Без названия.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
+                "file": "_inbox/Без названия.md"
               }
             }
           },
@@ -135,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "_inbox/Без названия.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -220,14 +233,15 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "ac035fea515d5439",
   "lastOpenFiles": [
+    "SQL/Группы операторов/Data Manipulation Language (DML).md",
+    "_inbox/Без названия.md",
     "_resource/_files/Pasted image 20231121221104.png",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "SQL/Представления (View).md",
     "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
     "SQL/Группы операторов/Data Query Language (DQL).md",
-    "SQL/Группы операторов/Data Manipulation Language (DML).md",
     "SQL/Внешний ключ (Foreign Key).md",
     "SQL/Ограничения полей в таблицах sql.md",
     "SQL/Группы операторов/Data Definition Language (DDL).md",
@@ -263,7 +277,6 @@
     "_resource/_files/GOM_2Z8HU0Yake.png",
     "_resource/_files/GOM_E68BxtZdAe.png",
     "_resource/_files/GOM_aKcn3E6MVK.png",
-    "_resource/_files/GOM_gmzbNYuglm.png",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
