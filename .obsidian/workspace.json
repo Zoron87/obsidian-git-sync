@@ -16,19 +16,21 @@
                 "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Data Manipulation Language (DML)"
             }
           },
           {
-            "id": "ac035fea515d5439",
+            "id": "f63164bedbdd31a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "_inbox/Без названия.md",
-                "mode": "source",
-                "source": false
-              }
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
         ],
@@ -52,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -67,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -75,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_inbox/Без названия.md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Data Manipulation Language (DML)"
             }
           },
           {
@@ -115,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_inbox/Без названия.md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Data Manipulation Language (DML)"
             }
           },
           {
@@ -129,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -138,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_inbox/Без названия.md"
-              }
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Data Manipulation Language (DML)"
             }
           },
           {
@@ -148,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_inbox/Без названия.md",
+                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -174,7 +190,9 @@
                   "scale": 1,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Граф Data Manipulation Language (DML)"
             }
           },
           {
@@ -182,7 +200,9 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
@@ -190,7 +210,9 @@
             "type": "leaf",
             "state": {
               "type": "reminder-list",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
             }
           },
           {
@@ -198,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -210,7 +234,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ],
@@ -233,7 +259,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "ac035fea515d5439",
+  "active": "f63164bedbdd31a2",
   "lastOpenFiles": [
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
     "_inbox/Без названия.md",
