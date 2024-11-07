@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Git/Команды git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Manipulation Language (DML)"
-            }
-          },
-          {
-            "id": "f63164bedbdd31a2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Команды git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Git/Команды git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Data Manipulation Language (DML)"
+              "title": "Обратные ссылки для Команды git"
             }
           },
           {
@@ -125,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Git/Команды git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Data Manipulation Language (DML)"
+              "title": "Исходящие ссылки из Команды git"
             }
           },
           {
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md"
+                "file": "Git/Команды git.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Data Manipulation Language (DML)"
+              "title": "Структура Команды git"
             }
           },
           {
@@ -164,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "SQL/Группы операторов/Data Manipulation Language (DML).md",
+                "file": "Git/Команды git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -192,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Data Manipulation Language (DML)"
+              "title": "Граф Команды git"
             }
           },
           {
@@ -259,9 +246,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "f63164bedbdd31a2",
+  "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
+    "Git/Команды git.md",
+    "Git",
     "_inbox/Без названия.md",
     "_resource/_files/Pasted image 20231121221104.png",
     "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
@@ -293,7 +282,6 @@
     "Csharp/Асинхронное программирование/Что не так с async void.md",
     "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "Csharp/Вопросы на самопроверку/В чем разница между Array и ArrayList.md",
-    "Csharp/Вопросы на самопроверку/В чем разница между наследованием и полиморфизмом в Csharp.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
@@ -306,7 +294,6 @@
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
-    "REST",
     "_inbox/Без названия.canvas"
   ]
 }
