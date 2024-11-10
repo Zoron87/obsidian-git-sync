@@ -13,3 +13,4 @@
 ```git
 gut checkout main^
 ```
+![[Pasted image 20241110211929.png]]

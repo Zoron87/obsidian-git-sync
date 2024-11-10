@@ -246,8 +246,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "_resource/_files/Pasted image 20241110211929.png",
     "Git/Команды git.md",
     "Git/Перемещение по веткам Git.md",
     "_inbox/С.md",
@@ -281,7 +282,6 @@
     "Csharp/Base Csharp/Как работает захват переменных (замыкания(closure)).md",
     "Csharp/Асинхронное программирование/Sync over async.md",
     "Csharp/Асинхронное программирование/Что не так с async void.md",
-    "Csharp/Вопросы на самопроверку/В чем разница между throw и throw ex в обработке исключений в Csharp.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
