@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Отмена изменений.md",
+                "file": "Git/Теги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Отмена изменений"
+              "title": "Теги"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Отмена изменений.md",
+                "file": "Git/Теги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Отмена изменений"
+              "title": "Обратные ссылки для Теги"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Отмена изменений.md",
+                "file": "Git/Теги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Отмена изменений"
+              "title": "Исходящие ссылки из Теги"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Отмена изменений.md"
+                "file": "Git/Теги.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Отмена изменений"
+              "title": "Структура Теги"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Отмена изменений.md",
+                "file": "Git/Теги.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Отмена изменений"
+              "title": "Граф Теги"
             }
           },
           {
@@ -248,10 +248,11 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "Git/Отмена изменений.md",
+    "Git/Теги.md",
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
     "Git/Перемещение по веткам Git.md",
-    "Git/Отмена изменений.md",
     "Git/Команды git.md",
     "_resource/_files/Pasted image 20241110220021.png",
     "_inbox/Без названия.md",
@@ -290,7 +291,6 @@
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
     "_resource/_files/Pasted image 20240405151822.png",
-    "_resource/_files/GOM_b2jW306qUL.png",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
