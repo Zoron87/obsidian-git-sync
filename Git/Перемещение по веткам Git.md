@@ -14,3 +14,12 @@
 gut checkout main^
 ```
 ![[Pasted image 20241110211929.png]]
+
+AМожно также использовать `HEAD` как относительную ссылку. Попробуем пройти несколько раз назад по дереву коммитов
+```git
+git checkout C3; 
+git checkout HEAD^;
+git checkout HEAD^; 
+git checkout HEAD^
+```
+![[Pasted image 20241110213313.png]]
