@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Теги.md",
+                "file": "Git/Команды git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Теги"
+              "title": "Команды git"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Теги.md",
+                "file": "Git/Команды git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Теги"
+              "title": "Обратные ссылки для Команды git"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Теги.md",
+                "file": "Git/Команды git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Теги"
+              "title": "Исходящие ссылки из Команды git"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Теги.md"
+                "file": "Git/Команды git.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Теги"
+              "title": "Структура Команды git"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Теги.md",
+                "file": "Git/Команды git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Теги"
+              "title": "Граф Команды git"
             }
           },
           {
@@ -248,9 +248,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "Git/Теги.md",
     "_resource/_files/Pasted image 20241110231110.png",
     "Git/Отмена изменений.md",
-    "Git/Теги.md",
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
     "Git/Перемещение по веткам Git.md",
@@ -290,7 +290,6 @@
     "DevOPS",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
-    "_resource/_files/Pasted image 20240405151822.png",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
