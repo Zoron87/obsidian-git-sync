@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "Git/Отмена изменений.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды git"
+              "title": "Отмена изменений"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "Git/Отмена изменений.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды git"
+              "title": "Обратные ссылки для Отмена изменений"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "Git/Отмена изменений.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Команды git"
+              "title": "Исходящие ссылки из Отмена изменений"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Команды git.md"
+                "file": "Git/Отмена изменений.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Команды git"
+              "title": "Структура Отмена изменений"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "Git/Отмена изменений.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Команды git"
+              "title": "Граф Отмена изменений"
             }
           },
           {
@@ -249,12 +249,13 @@
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
     "Git/Перемещение по веткам Git.md",
+    "Git/Отмена изменений.md",
+    "Git/Команды git.md",
     "_resource/_files/Pasted image 20241110220021.png",
     "_inbox/Без названия.md",
     "_resource/_files/Pasted image 20241110214424.png",
     "_resource/_files/Pasted image 20241110213313.png",
     "_resource/_files/Pasted image 20241110211929.png",
-    "Git/Команды git.md",
     "_inbox/С.md",
     "SQL/Группы операторов/Data Manipulation Language (DML).md",
     "Git",
