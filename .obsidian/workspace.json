@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Перемещение по веткам Git.md",
+                "file": "Git/Команды git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Перемещение по веткам Git"
+              "title": "Команды git"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Перемещение по веткам Git.md",
+                "file": "Git/Команды git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Перемещение по веткам Git"
+              "title": "Обратные ссылки для Команды git"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Перемещение по веткам Git.md",
+                "file": "Git/Команды git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Перемещение по веткам Git"
+              "title": "Исходящие ссылки из Команды git"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Перемещение по веткам Git.md"
+                "file": "Git/Команды git.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Перемещение по веткам Git"
+              "title": "Структура Команды git"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Перемещение по веткам Git.md",
+                "file": "Git/Команды git.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Перемещение по веткам Git"
+              "title": "Граф Команды git"
             }
           },
           {
@@ -248,9 +248,9 @@
   },
   "active": "012e86e0ecd61c70",
   "lastOpenFiles": [
+    "Git/Перемещение по веткам Git.md",
     "_resource/_files/Pasted image 20241110220021.png",
     "_inbox/Без названия.md",
-    "Git/Перемещение по веткам Git.md",
     "_resource/_files/Pasted image 20241110214424.png",
     "_resource/_files/Pasted image 20241110213313.png",
     "_resource/_files/Pasted image 20241110211929.png",
@@ -290,7 +290,6 @@
     "_resource/_files/Pasted image 20240405151822.png",
     "_resource/_files/GOM_b2jW306qUL.png",
     "_resource/_files/GOM_igY8KeDRlw.png",
-    "_resource/_files/GOM_sTtgLbakd4.png",
     "Csharp/Параллельное программирование",
     "SignalR",
     "Csharp/Асинхронное программирование",
