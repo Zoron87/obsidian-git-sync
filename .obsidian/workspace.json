@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды git"
+              "title": "README"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Команды git"
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Команды git"
+              "title": "Исходящие ссылки из README"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Команды git.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Команды git"
+              "title": "Структура README"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Git/Команды git.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Команды git"
+              "title": "Граф README"
             }
           },
           {
@@ -248,6 +248,10 @@
   },
   "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "Git/Команды git.md",
+    "IDE",
+    "Фронтенд",
+    "Бекенд",
     "Базы данных/ADO.NET",
     "Базы данных",
     "Git/Теги.md",
@@ -256,7 +260,6 @@
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
     "Git/Перемещение по веткам Git.md",
-    "Git/Команды git.md",
     "_resource/_files/Pasted image 20241110220021.png",
     "_inbox/Без названия.md",
     "_resource/_files/Pasted image 20241110214424.png",
@@ -266,9 +269,9 @@
     "Базы данных/SQL/Группы операторов/Data Manipulation Language (DML).md",
     "Git",
     "_resource/_files/Pasted image 20231121221104.png",
-    "Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
+    "Бекенд/Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Базы данных/SQL/Представления (View).md",
-    "Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
+    "Бекенд/Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
     "Базы данных/SQL/Группы операторов/Data Query Language (DQL).md",
     "Базы данных/SQL/Внешний ключ (Foreign Key).md",
     "Базы данных/SQL/Ограничения полей в таблицах sql.md",
@@ -278,22 +281,18 @@
     "Базы данных/SQL/Реляционные базы данных/Нормализация БД.md",
     "Базы данных/SQL/Реляционные базы данных/Реляционная модель.md",
     "_resource/_files/Pasted image 20240908012037.png",
-    "Csharp/Base Csharp/Nameof.md",
+    "Бекенд/Csharp/Base Csharp/Nameof.md",
     "Базы данных/SQL/Реляционные базы данных",
-    "Csharp/Base Csharp/Замыкания (Closure).md",
-    "Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
-    "Javascript/Метод `slice()`.md",
-    "Csharp/Base Csharp/DI",
-    "API/Безопасные и идемпотентные методы.md",
-    "API/Методы HTTP.md",
-    "API",
+    "Бекенд/Csharp/Base Csharp/Замыкания (Closure).md",
+    "Бекенд/Csharp/Base Csharp/DI/Разница между GetService и GetRequiredService.md",
+    "Фронтенд/Javascript/Метод `slice()`.md",
+    "Бекенд/Csharp/Base Csharp/DI",
+    "Бекенд/API/Безопасные и идемпотентные методы.md",
+    "Бекенд/API/Методы HTTP.md",
+    "Бекенд/API",
     "DevOPS/Модель OSI.md",
-    "Csharp/Base Csharp/Файловые пространства имен (file-scoped namespaces).md",
-    "DevOPS",
+    "Бекенд/Csharp/Base Csharp/Файловые пространства имен (file-scoped namespaces).md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)",
-    "Csharp/Параллельное программирование",
-    "SignalR",
     "_inbox/Без названия.canvas"
   ]
 }
