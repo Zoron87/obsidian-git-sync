@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
+                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основные компоненты ADO.NET"
+              "title": "Шаблон CQRS с MediatR"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
+                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Основные компоненты ADO.NET"
+              "title": "Обратные ссылки для Шаблон CQRS с MediatR"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
+                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Основные компоненты ADO.NET"
+              "title": "Исходящие ссылки из Шаблон CQRS с MediatR"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Базы данных/ADO.NET/Основные компоненты ADO.NET.md"
+                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Основные компоненты ADO.NET"
+              "title": "Структура Шаблон CQRS с MediatR"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
+                "file": "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -179,7 +179,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Граф Основные компоненты ADO.NET"
+              "title": "Граф Шаблон CQRS с MediatR"
             }
           },
           {
@@ -246,10 +246,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "012e86e0ecd61c70",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
-    "README.md",
+    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
+    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
+    "README.md",
     "Git/Команды git.md",
     "IDE",
     "Фронтенд",
@@ -290,9 +292,7 @@
     "Фронтенд/Javascript/Метод `slice()`.md",
     "Бекенд/Csharp/Base Csharp/DI",
     "Бекенд/API/Безопасные и идемпотентные методы.md",
-    "Бекенд/API/Методы HTTP.md",
     "Бекенд/API",
-    "DevOPS/Модель OSI.md",
     "_resource/_files/chrome_9gT0B0fsEO.png",
     "_inbox/Без названия.canvas"
   ]
