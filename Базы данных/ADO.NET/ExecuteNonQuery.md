@@ -17,3 +17,4 @@ command.CommandText = $@"INSERT INTO users (first_name, last_name, email, age) V
 // Добавляем параметры запроса 
 command.Parameters.AddWithValue("@firstName", firstName); command.Parameters.AddWithValue("@lastName", lastName); command.Parameters.AddWithValue("@email", email); command.Parameters.AddWithValue("@age", age);
 ```
+Этот подход гарантирует, что все специальные символы, включая `@`, будут корректно обработаны.
