@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Шаблон CQRS с MediatR"
             }
+          },
+          {
+            "id": "ba38f18469c8d57a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +259,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "ba38f18469c8d57a",
   "lastOpenFiles": [
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
