@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Базы данных/ADO.NET/ExecuteNonQuery.md",
+                "file": "Базы данных/ADO.NET/MySqlDataReader.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ExecuteNonQuery"
+              "title": "MySqlDataReader"
             }
           }
         ]
@@ -248,9 +248,10 @@
   },
   "active": "19c1a1d86b66d669",
   "lastOpenFiles": [
+    "Базы данных/ADO.NET/ExecuteNonQuery.md",
+    "Базы данных/ADO.NET/MySqlDataReader.md",
     "Интересные задачи/Csharp/Задача со StringBuilder.md",
     "_resource/_files/Pasted image 20241116153207.png",
-    "Базы данных/ADO.NET/ExecuteNonQuery.md",
     "_resource/_files/Pasted image 20241115210454.png",
     "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
