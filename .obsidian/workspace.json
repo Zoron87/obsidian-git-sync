@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "MySqlDataReader"
             }
+          },
+          {
+            "id": "da438d438d5f10e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +259,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "19c1a1d86b66d669",
+  "active": "da438d438d5f10e4",
   "lastOpenFiles": [
     "Базы данных/ADO.NET/ExecuteNonQuery.md",
     "Базы данных/ADO.NET/MySqlDataReader.md",
