@@ -9,11 +9,11 @@ csharp
 ```C#
 public async Task<string> GetDataAsync() 
 {     
-// Асинхронная операция без возвращения к исходному контексту     
-string data = await File.ReadAllTextAsync("data.txt").ConfigureAwait(false);     return data; 
+	// Асинхронная операция без возвращения к исходному контексту     
+	string data = await File.ReadAllTextAsync("data.txt").ConfigureAwait(false);   
+	return data; 
 }
 ```
-`
 
 Использование `ConfigureAwait(false)` позволяет избежать необходимости возвращаться к исходному контексту, что может улучшить производительность и избежать потенциальных дедлоков.
 
