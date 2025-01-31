@@ -11,4 +11,27 @@ Value Object (VO) - это объект, который:
 - **Entity** имеет уникальный идентификатор (например, пользователь с `UserId`).
 - **Value Object** не имеет идентификатора. Два VO равны, если все их поля совпадают.
 
+Value Objects должны гарантировать корректность данных. Используйте приватный конструктор и фабричные методы.
+
+```C#
+public record Email
+{
+    public string Value { get; }
+
+    private Email(string value) => Value = value;
+
+    public static Email Create(string email)
+    {
+        if (string.IsNullOrEmpty(email) || !email.Contains('@'))
+        {
+            throw new ArgumentException("Invalid email");
+        }
+        return new Email(email);
+    }
+}
+```
+
+// Использование
+var email = Email.Create("test@example.com");
+
 #Функциональное_программирование 
