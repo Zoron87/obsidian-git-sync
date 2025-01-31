@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Функциональное программирование/Option_T (Maybe_T).md",
+                "file": "Функциональное программирование/Map.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Option_T (Maybe_T)"
+              "title": "Map"
             }
           }
         ]
@@ -248,8 +248,9 @@
   },
   "active": "19c1a1d86b66d669",
   "lastOpenFiles": [
-    "Функциональное программирование/Что такое Result_T.md",
     "Функциональное программирование/Option_T (Maybe_T).md",
+    "Функциональное программирование/Map.md",
+    "Функциональное программирование/Что такое Result_T.md",
     "Функциональное программирование/Что такое Value Object.md",
     "Функциональное программирование/Чистые функции.md",
     "Функциональное программирование/Функции высших порядков.md",
@@ -290,7 +291,6 @@
     "_resource/_files/Pasted image 20241110221927.png",
     "Git/Перемещение по веткам Git.md",
     "_resource/_files/Pasted image 20241110220021.png",
-    "_inbox/Без названия.md",
     "_resource/_files/Pasted image 20241110214424.png",
     "_resource/_files/Pasted image 20241110213313.png",
     "_resource/_files/Pasted image 20241110211929.png",
