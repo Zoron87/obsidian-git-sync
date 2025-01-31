@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фронтенд/Javascript/Примеры преобразования объектов.md",
+                "file": "Функциональное программирование/Функции высших порядков.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Примеры преобразования объектов"
+              "title": "Функции высших порядков"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -247,10 +246,13 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bab9aa574df7f6e1",
+  "active": "19c1a1d86b66d669",
   "lastOpenFiles": [
-    "Бекенд/Csharp/Асинхронное программирование/Методы/ValueTask.md",
     "Фронтенд/Javascript/Примеры преобразования объектов.md",
+    "Функциональное программирование/Функции высших порядков.md",
+    "Без названия",
+    "Функциональное программирование",
+    "Бекенд/Csharp/Асинхронное программирование/Методы/ValueTask.md",
     "Бекенд/Csharp/Асинхронное программирование/Методы/IAsyncEnumerable (Асинхронные итераторы).md",
     "Бекенд/Csharp/Асинхронное программирование/Методы/ContinueWith.md",
     "Архитектура/Onion (Луковая) архитектура/Что такое Onion (Луковая) архитектура.md",
@@ -277,7 +279,6 @@
     "Фронтенд",
     "Бекенд",
     "Базы данных/ADO.NET",
-    "Базы данных",
     "Git/Теги.md",
     "_resource/_files/Pasted image 20241110231110.png",
     "Git/Отмена изменений.md",
@@ -291,10 +292,8 @@
     "_resource/_files/Pasted image 20241110211929.png",
     "_inbox/С.md",
     "Базы данных/SQL/Группы операторов/Data Manipulation Language (DML).md",
-    "Git",
     "Бекенд/Csharp/Base Csharp/Сборщик мусора (Garbage Collector).md",
     "Базы данных/SQL/Представления (View).md",
-    "Бекенд/Csharp/Base Csharp/Работа с tar-файлами в .NET 8.md",
     "_inbox/Без названия.canvas"
   ]
 }
