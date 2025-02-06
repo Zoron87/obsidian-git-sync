@@ -90,3 +90,41 @@ collection.Should().Equal(params object[] items);
 collection.Should().BeInAscendingOrder();
 collection.Should().BeInDescendingOrder();
 ```
+
+### Настройка правила сравнения
+
+Часто нам нужно сравнить только некоторые поля. В таком случае можно воспользоваться дополнительными опциями:
+
+```C#
+actual.Should().BeEquivalentTo(expected, options => 
+    options
+        .Excluding(person => person.Age)
+        .Including(person => person.Name),
+    "важно сравнить только имя");
+
+```
+
+### Проверка ссылочной равности (ReferenceEquality)
+
+Если вам важно, чтобы объекты в памяти были одной и той же ссылкой, используйте:
+```C#
+actual.Should().BeSameAs(expectedObject);
+```
+
+## Проверка исключений
+
+### Общая идея
+
+FluentAssertions упрощает проверку того, что некоторый вызов выбросил определённое исключение (или наоборот, **не** выбросил). Логика типовая: вы оборачиваете вызов в делегат (чаще всего лямбда `Action`) и вызываете метод `Should().Throw<TException>()` или `Should().NotThrow<TException>()`.
+```C#
+[Fact]
+public void Should_ThrowException_When_DividingByZero()
+{
+    // Arrange
+    var calculator = new Calculator();
+    // Act
+    Action act = () => calculator.Divide(10, 0);
+    // Assert
+    act.Should().Throw<DivideByZeroException>("делить на ноль нельзя");
+}
+```
