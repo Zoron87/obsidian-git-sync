@@ -61,3 +61,16 @@ int number = 5; number.Should().BeInRange(1, 10);
 ```
     
 Should().Match(...) — проверяет соответствие условию (делает «гибкую» проверку). Можно использовать лямбда-выражения с `Match` (или `MatchRegex` для проверки по регулярному выражению).
+
+### Проверка строк
+
+FluentAssertions предлагает обширный набор методов для проверки строк:
+
+```C#
+str.Should().BeNullOrEmpty();
+str.Should().BeNullOrWhiteSpace();
+str.Should().Contain("text");
+str.Should().StartWith("Hello");
+str.Should().EndWith("World");`
+str.Should().Match("*some pattern*");
+```
