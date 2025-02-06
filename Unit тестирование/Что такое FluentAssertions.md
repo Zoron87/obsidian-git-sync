@@ -26,7 +26,7 @@ action.Should().Throw<InvalidOperationException>();
 ## Базовый синтаксис и основные методы
 
 
-### Метод `Should().Be()`
+### Метод Should().Be()
 
 Самый простой способ проверки равенства двух значений — это:
 ```C#
@@ -39,3 +39,25 @@ sum.Should().Be(12, "потому что 5 плюс 7 должно дать 12")
 ```
 
 Это делает логику теста самодокументированной.
+
+- Should().NotBe(expected) — проверка, что значение НЕ равно ожидаемому:
+```C#
+actual.Should().NotBe(10);
+```
+    
+Should().BeNull() / `Should().NotBeNull() — проверка на null:
+```C#
+string s = null; s.Should().BeNull();
+```
+    
+Should().BeTrue()` / `Should().BeFalse() — проверка булевых значений:
+```C#
+bool result = (5 > 3); result.Should().BeTrue();
+```
+    
+Should().BeInRange(min, max) — проверка, что число лежит в заданном диапазоне:
+```C#
+int number = 5; number.Should().BeInRange(1, 10);
+```
+    
+Should().Match(...) — проверяет соответствие условию (делает «гибкую» проверку). Можно использовать лямбда-выражения с `Match` (или `MatchRegex` для проверки по регулярному выражению).
