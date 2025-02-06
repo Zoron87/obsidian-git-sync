@@ -148,3 +148,37 @@ act.Should().NotThrow();
 ```C#
 act.Should().NotThrowAnyException();
 ```
+
+## Проверка времени и дат (DateTime, DateTimeOffset)
+
+FluentAssertions умеет удобно работать с датами и временем:
+
+```C#
+dateTime.Should().BeAfter(otherDateTime);
+dateTime.Should().BeBefore(otherDateTime);
+dateTime.Should().BeCloseTo(otherDateTime, precision: 1.Seconds());
+```
+
+Последний пример особенно полезен, когда мы хотим убедиться, что разница между двумя временными метками не превышает определённой точности. Например, при тестировании времени выполнения или сгенерированных дат.
+```C#
+DateTime now = DateTime.Now;
+DateTime oneSecondAgo = now.AddSeconds(-1);
+
+now.Should().BeCloseTo(oneSecondAgo, precision: TimeSpan.FromSeconds(2));
+```
+
+## Расширенные возможности и полезные приёмы
+
+### Цепочка методов (Fluent-цепочки)
+
+Благодаря «цепочечному» синтаксису мы можем объединять несколько проверок в одну последовательность. Например:
+```C#
+user.Should().NotBeNull()
+    .And.BeOfType<User>()
+    .Which.Name.Should().NotBeNullOrEmpty();
+```
+Расшифровка:
+
+1. `NotBeNull()` — объект `user` не должен быть `null`.
+2. `And.BeOfType<User>()` — далее проверяем, что он принадлежит типу `User`.
+3. `Which.Name.Should().NotBeNullOrEmpty()` — «который (Which)» имеет свойство `Name`, и оно не должно быть пустым.
