@@ -182,3 +182,45 @@ user.Should().NotBeNull()
 1. `NotBeNull()` — объект `user` не должен быть `null`.
 2. `And.BeOfType<User>()` — далее проверяем, что он принадлежит типу `User`.
 3. `Which.Name.Should().NotBeNullOrEmpty()` — «который (Which)» имеет свойство `Name`, и оно не должно быть пустым.
+
+### Сравнение сложных объектов (Graph comparison)
+
+`BeEquivalentTo` выполняет **глубокое** сравнение. Если объекты имеют вложенные поля, FluentAssertions рекурсивно сравнит и их. Это особенно удобно при тестировании DTO (Data Transfer Objects) или сложных моделей.
+
+Например:
+```C#
+public class Order
+{
+    public int Id { get; set; }
+    public Customer Customer { get; set; }
+    // ...
+}
+
+public class Customer
+{
+    public string FullName { get; set; }
+    // ...
+}
+```
+```C#
+[Fact]
+public void Should_HaveEquivalentOrder()
+{
+    // Arrange
+    var actual = new Order
+    {
+        Id = 1,
+        Customer = new Customer { FullName = "John Doe" }
+    };
+
+    var expected = new Order
+    {
+        Id = 1,
+        Customer = new Customer { FullName = "John Doe" }
+    };
+
+    // Act & Assert
+    actual.Should().BeEquivalentTo(expected, "оба заказа имеют одинаковые поля");
+}
+```
+FluentAssertions сам найдёт вложенный объект `Customer` и сравнит поле `FullName`.
