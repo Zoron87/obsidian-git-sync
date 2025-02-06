@@ -74,3 +74,8 @@ str.Should().StartWith("Hello");
 str.Should().EndWith("World");`
 str.Should().Match("*some pattern*");
 ```
+
+### Основные методы для коллекций
+
+FluentAssertions особенно силён в проверках списков и массивов. Ниже перечислены лишь некоторые основные методы:
+
