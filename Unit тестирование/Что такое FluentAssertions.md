@@ -128,3 +128,23 @@ public void Should_ThrowException_When_DividingByZero()
     act.Should().Throw<DivideByZeroException>("делить на ноль нельзя");
 }
 ```
+
+### Проверка сообщения или свойств исключения
+
+Дополнительно можно проверить сообщение исключения или другие свойства:
+```C#
+act.Should().Throw<ArgumentException>()
+   .WithMessage("*cannot be empty*");
+```
+Символ `*` здесь обозначает «любой текст до или после строки `cannot be empty`». Или если нужно полное соответствие:
+
+### Проверка на отсутствие исключений
+
+Если вы хотите удостовериться, что никакого исключения _не_ происходит, используйте:
+```C#
+act.Should().NotThrow();
+```
+Или:
+```C#
+act.Should().NotThrowAnyException();
+```
