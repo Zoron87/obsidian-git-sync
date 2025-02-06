@@ -11,3 +11,14 @@ Assert.Equal(expected, actual);
 ```C#
 actual.Should().Be(expected);
 ```
+
+Как видно, второй вариант читается почти как обычное предложение на английском: «actual ДОЛЖЕН быть expected».
+
+Другие ключевые примеры:
+
+```C#
+actual.Should().NotBeNull();
+actual.Should().BeOfType<MyType>();
+list.Should().Contain(x => x.Id == 5);
+action.Should().Throw<InvalidOperationException>();
+```
