@@ -79,3 +79,14 @@ str.Should().Match("*some pattern*");
 
 FluentAssertions особенно силён в проверках списков и массивов. Ниже перечислены лишь некоторые основные методы:
 
+```C#
+collection.Should().BeEmpty();
+collection.Should().NotBeEmpty();
+collection.Should().HaveCount(int expectedCount);
+collection.Should().Contain(item);
+collection.Should().ContainSingle();
+collection.Should().OnlyHaveUniqueItems();
+collection.Should().Equal(params object[] items);
+collection.Should().BeInAscendingOrder();
+collection.Should().BeInDescendingOrder();
+```
