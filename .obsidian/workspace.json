@@ -25,12 +25,14 @@
             "id": "6659c7e8f1692148",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Git/Привязка локального репозитория к удаленному.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Привязка локального репозитория к удаленному"
             }
           }
         ],
@@ -262,6 +264,7 @@
   },
   "active": "6659c7e8f1692148",
   "lastOpenFiles": [
+    "Git/Привязка локального репозитория к удаленному.md",
     "Функциональное программирование/Map.md",
     "Unit тестирование/Что такое FluentAssertions.md",
     "Функциональное программирование/Option_T (Maybe_T).md",
@@ -301,7 +304,6 @@
     "Базы данных/ADO.NET",
     "Git/Теги.md",
     "_resource/_files/Pasted image 20241110231110.png",
-    "Git/Отмена изменений.md",
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
     "_resource/_files/Pasted image 20241110220021.png",
