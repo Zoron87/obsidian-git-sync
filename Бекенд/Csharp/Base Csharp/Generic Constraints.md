@@ -18,22 +18,22 @@ class MyClass<T> where T : BaseType {
 
 ### Виды ограничений типа (Constraints)
 
-| СИНТАКСИС                           | ОПИСАНИЕ                                                 |        |
-| ----------------------------------- | -------------------------------------------------------- | ------ |
-| `where T : class`                   | T должен быть ссылочным типом                            |        |
-| `where T : struct`                  | T должен быть значимым типом                             |        |
-| `where T : new()`                   | T должен иметь публичный конструктор без параметров      |        |
-| `where T : BaseClass`               | T должен наследовать от`BaseClass`                       |        |
-| `where T : IInterface`              | T должен реализовывать интерфейс`IInterface`             |        |
-| where T : unmanaged                 |                                                          |        |
-| where T : Enum                      |                                                          |        |
-| where T : Delegate                  |                                                          |        |
-| where T : notnull                   |                                                          |        |
-| where T : default                   |                                                          |        |
-| where T : INumber<T>                |                                                          |        |
-| where T : IAdditionOperators<T,T,T> | T должен поддерживать оператор сложения                  |        |
-| where T : Span<T>                   | Ограничение на ref-структуры                             | C# 11+ |
-| where T : U                         | T должен быть производным от другого generic-параметра U |        |
+| СИНТАКСИС                           | ОПИСАНИЕ                                                 |                  |
+| ----------------------------------- | -------------------------------------------------------- | ---------------- |
+| `where T : class`                   | T должен быть ссылочным типом                            |                  |
+| `where T : struct`                  | T должен быть значимым типом                             |                  |
+| `where T : new()`                   | T должен иметь публичный конструктор без параметров      |                  |
+| `where T : BaseClass`               | T должен наследовать от`BaseClass`                       |                  |
+| `where T : IInterface`              | T должен реализовывать интерфейс`IInterface`             |                  |
+| where T : unmanaged                 |                                                          |                  |
+| where T : Enum                      |                                                          |                  |
+| where T : Delegate                  |                                                          |                  |
+| where T : notnull                   |                                                          |                  |
+| where T : default                   |                                                          |                  |
+| where T : INumber<T>                | T должен реализовывать интерфейс числовых операций       |                  |
+| where T : IAdditionOperators<T,T,T> | T должен поддерживать оператор сложения                  | C# 11+ (.NET 7+) |
+| where T : Span<T>                   | Ограничение на ref-структуры                             | C# 11+           |
+| where T : U                         | T должен быть производным от другого generic-параметра U |                  |
 
 **Пример с несколькими ограничениями:**
 
