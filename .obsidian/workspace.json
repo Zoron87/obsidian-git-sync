@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Привязка локального репозитория к удаленному"
             }
+          },
+          {
+            "id": "cce30d3ab2492351",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -262,7 +274,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "6659c7e8f1692148",
+  "active": "cce30d3ab2492351",
   "lastOpenFiles": [
     "Git/Привязка локального репозитория к удаленному.md",
     "Функциональное программирование/Map.md",
