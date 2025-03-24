@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Привязка локального репозитория к удаленному.md",
+                "file": "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Привязка локального репозитория к удаленному"
-            }
-          },
-          {
-            "id": "cce30d3ab2492351",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "Generic Constraints"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -274,9 +262,11 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "cce30d3ab2492351",
+  "active": "6659c7e8f1692148",
   "lastOpenFiles": [
     "Git/Привязка локального репозитория к удаленному.md",
+    "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
+    "Бекенд/Csharp/Base Csharp/Без названия",
     "Функциональное программирование/Map.md",
     "Unit тестирование/Что такое FluentAssertions.md",
     "Функциональное программирование/Option_T (Maybe_T).md",
@@ -313,8 +303,6 @@
     "IDE",
     "Фронтенд",
     "Бекенд",
-    "Базы данных/ADO.NET",
-    "Git/Теги.md",
     "_resource/_files/Pasted image 20241110231110.png",
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
