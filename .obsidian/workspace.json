@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Debug/DebuggerDisplay.md",
+                "file": "Debug/Горячие клавиши для управления выполнением программы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DebuggerDisplay"
+              "title": "Горячие клавиши для управления выполнением программы"
             }
           }
         ],
@@ -264,8 +264,9 @@
   },
   "active": "6659c7e8f1692148",
   "lastOpenFiles": [
-    "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
     "Debug/DebuggerDisplay.md",
+    "Debug/Горячие клавиши для управления выполнением программы.md",
+    "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
     "Debug",
     "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Без названия",
@@ -299,7 +300,6 @@
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
-    "README.md",
     "IDE",
     "Фронтенд",
     "Бекенд",
