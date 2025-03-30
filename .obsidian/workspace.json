@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
+                "file": "Debug/DebuggerDisplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generic Constraints"
+              "title": "DebuggerDisplay"
             }
           }
         ],
@@ -264,8 +264,10 @@
   },
   "active": "6659c7e8f1692148",
   "lastOpenFiles": [
-    "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
+    "Debug/DebuggerDisplay.md",
+    "Debug",
+    "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Без названия",
     "Функциональное программирование/Map.md",
     "Unit тестирование/Что такое FluentAssertions.md",
@@ -275,7 +277,6 @@
     "Функциональное программирование/Чистые функции.md",
     "Функциональное программирование/Функции высших порядков.md",
     "Фронтенд/Javascript/Примеры преобразования объектов.md",
-    "Без названия",
     "Функциональное программирование",
     "Бекенд/Csharp/Асинхронное программирование/Методы/ValueTask.md",
     "Бекенд/Csharp/Асинхронное программирование/Методы/IAsyncEnumerable (Асинхронные итераторы).md",
@@ -299,7 +300,6 @@
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "README.md",
-    "Git/Команды git.md",
     "IDE",
     "Фронтенд",
     "Бекенд",
