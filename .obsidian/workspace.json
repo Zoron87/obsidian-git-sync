@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/Что такое FluentAssertions.md",
+                "file": "IDE/Rider/Горячие клавиши.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Что такое FluentAssertions"
-            }
-          },
-          {
-            "id": "6659c7e8f1692148",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debug/Горячие клавиши для управления выполнением программы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Горячие клавиши для управления выполнением программы"
+              "title": "Горячие клавиши"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +74,7 @@
               "title": "Закладки"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,16 +247,19 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bab9aa574df7f6e1",
+  "active": "19c1a1d86b66d669",
   "lastOpenFiles": [
-    "Debug/DebuggerDisplay.md",
+    "Unit тестирование/Что такое FluentAssertions.md",
+    "IDE/Rider/Горячие клавиши.md",
+    "IDE/Rider",
+    "_inbox/2025-04-21.md",
     "Debug/Горячие клавиши для управления выполнением программы.md",
+    "Debug/DebuggerDisplay.md",
     "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
     "Debug",
     "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Без названия",
     "Функциональное программирование/Map.md",
-    "Unit тестирование/Что такое FluentAssertions.md",
     "Функциональное программирование/Option_T (Maybe_T).md",
     "Функциональное программирование/Что такое Result_T.md",
     "Функциональное программирование/Что такое Value Object.md",
@@ -299,11 +286,8 @@
     "_resource/_files/Pasted image 20241115210454.png",
     "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
     "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн CQRS.md",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Паттерн Медиатор (Посредник).md",
     "IDE",
     "Фронтенд",
-    "Бекенд",
     "_resource/_files/Pasted image 20241110231110.png",
     "_resource/_files/Pasted image 20241110222342.png",
     "_resource/_files/Pasted image 20241110221927.png",
