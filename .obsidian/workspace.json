@@ -25,12 +25,14 @@
             "id": "09ba095d0d746421",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Архитектура/Статья Егора Сычева про чистую архитектуру.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Статья Егора Сычева про чистую архитектуру"
             }
           }
         ],
@@ -262,6 +264,7 @@
   },
   "active": "09ba095d0d746421",
   "lastOpenFiles": [
+    "Архитектура/Статья Егора Сычева про чистую архитектуру.md",
     "Unit тестирование/Что такое FluentAssertions.md",
     "IDE/Rider/Горячие клавиши.md",
     "IDE/Rider",
@@ -298,7 +301,6 @@
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
     "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
-    "Паттерны проектирования/Паттерны CQRS и Медиатор (Посредник)/Шаблон CQRS с MediatR.md",
     "IDE",
     "Фронтенд",
     "_resource/_files/Pasted image 20241110231110.png",
