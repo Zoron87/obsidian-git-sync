@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Архитектура/Статья Егора Сычева про чистую архитектуру.md",
+                "file": "Фронтенд/Файлы package.json package-lock.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статья Егора Сычева про чистую архитектуру"
+              "title": "Файлы package.json package-lock.json"
             }
           }
         ],
@@ -265,6 +265,7 @@
   "active": "09ba095d0d746421",
   "lastOpenFiles": [
     "Архитектура/Статья Егора Сычева про чистую архитектуру.md",
+    "Фронтенд/Файлы package.json package-lock.json.md",
     "Unit тестирование/Что такое FluentAssertions.md",
     "IDE/Rider/Горячие клавиши.md",
     "IDE/Rider",
@@ -300,7 +301,6 @@
     "Интересные задачи/Csharp/Задача со StringBuilder.md",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
-    "Базы данных/ADO.NET/Основные компоненты ADO.NET.md",
     "IDE",
     "Фронтенд",
     "_resource/_files/Pasted image 20241110231110.png",
