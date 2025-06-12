@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бекенд/Csharp/Reflection/Вызов приватных методов через рефлексию.md",
+                "file": "Бекенд/Csharp/Reflection/Динамическое создание Generic-типов через рефлексию.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вызов приватных методов через рефлексию"
+              "title": "Динамическое создание Generic-типов через рефлексию"
             }
           }
         ],
@@ -264,8 +264,9 @@
   },
   "active": "09ba095d0d746421",
   "lastOpenFiles": [
-    "Бекенд/Csharp/Reflection/Вызов статических методов через рефлексию.md",
     "Бекенд/Csharp/Reflection/Вызов приватных методов через рефлексию.md",
+    "Бекенд/Csharp/Reflection/Динамическое создание Generic-типов через рефлексию.md",
+    "Бекенд/Csharp/Reflection/Вызов статических методов через рефлексию.md",
     "Бекенд/Csharp/Reflection/GetType и typeof().md",
     "Фронтенд/Ключевые слова let и const.md",
     "Бекенд/Csharp/Reflection",
@@ -298,7 +299,6 @@
     "Бекенд/Csharp/Асинхронное программирование/Методы/ConfigureAwait.md",
     "Архитектура/Onion (Луковая) архитектура",
     "Архитектура",
-    "Бекенд/Csharp/Асинхронное программирование/Разница  между Task.Delay и Thread.Sleep.md",
     "_resource/_files/ЗАМЫКАНИЯ В JS за 15 минут_ ОТ и ДО _ Что такое лексическое окружение и как связано с замыканием_ 720.mp4",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
