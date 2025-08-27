@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Фоновые и активные потоки (Background & Foreground)"
             }
+          },
+          {
+            "id": "1e089275f47aa898",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -252,6 +264,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -262,7 +275,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "09ba095d0d746421",
+  "active": "1e089275f47aa898",
   "lastOpenFiles": [
     "Бекенд/Csharp/Конкурентное программирование/Что такое конкурентное программирование.md",
     "Бекенд/Csharp/Асинхронное программирование/Фоновые и активные потоки (Background & Foreground).md",
