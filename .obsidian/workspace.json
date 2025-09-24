@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Без названия"
             }
+          },
+          {
+            "id": "d14b10bcec356f91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -277,7 +289,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "1e089275f47aa898",
+  "active": "d14b10bcec356f91",
   "lastOpenFiles": [
     "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
