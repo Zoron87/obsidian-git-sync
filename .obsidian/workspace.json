@@ -53,12 +53,14 @@
             "id": "d14b10bcec356f91",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Архитектура/Отличия Cohesion и Coupling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.12"
+              "icon": "lucide-file",
+              "title": "Отличия Cohesion и Coupling"
             }
           }
         ],
@@ -291,6 +293,7 @@
   },
   "active": "d14b10bcec356f91",
   "lastOpenFiles": [
+    "Архитектура/Отличия Cohesion и Coupling.md",
     "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку",
@@ -322,7 +325,6 @@
     "Функциональное программирование/Что такое Value Object.md",
     "Функциональное программирование/Чистые функции.md",
     "Функциональное программирование/Функции высших порядков.md",
-    "Фронтенд/Javascript/Примеры преобразования объектов.md",
     "Функциональное программирование",
     "Бекенд/Csharp/Асинхронное программирование/Методы",
     "_resource/_files/Pasted image 20241230231341.png",
