@@ -291,8 +291,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d14b10bcec356f91",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "Go",
     "Бекенд/Csharp/JsonConverters/Как думать про `ReadJson`.md",
     "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
@@ -324,7 +325,6 @@
     "Debug/DebuggerDisplay.md",
     "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
     "Debug",
-    "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Без названия",
     "Функциональное программирование",
     "Бекенд/Csharp/Асинхронное программирование/Методы",
