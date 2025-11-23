@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бекенд/Csharp/JsonConverters.md",
+                "file": "Бекенд/Csharp/JsonConverters/Как думать про `ReadJson`.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JsonConverters"
+              "title": "Как думать про `ReadJson`"
             }
           }
         ],
@@ -291,16 +291,18 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "d14b10bcec356f91",
   "lastOpenFiles": [
-    "Бекенд/Без названия",
+    "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
+    "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
+    "Бекенд/Csharp/JsonConverters/Как думать про `ReadJson`.md",
+    "Бекенд/Csharp/JsonConverters/JsonConverters.md",
+    "Бекенд/Csharp/JsonConverters",
     "Паттерны проектирования/Паттерн Singleton (Одиночка).md",
-    "Бекенд/Csharp/JsonConverters.md",
     "Паттерны проектирования/Паттерн проектирования 'Фасад' (Facade).md",
     "Паттерны проектирования/Паттерн Фабрика.md",
     "Архитектура/Отличия Cohesion и Coupling.md",
     "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
-    "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку",
     "Бекенд/Csharp/Конкурентное программирование/Что такое конкурентное программирование.md",
     "Бекенд/Csharp/Асинхронное программирование/Фоновые и активные потоки (Background & Foreground).md",
@@ -324,12 +326,10 @@
     "Debug",
     "Git/Привязка локального репозитория к удаленному.md",
     "Бекенд/Csharp/Base Csharp/Без названия",
-    "Функциональное программирование/Map.md",
     "Функциональное программирование",
     "Бекенд/Csharp/Асинхронное программирование/Методы",
     "_resource/_files/Pasted image 20241230231341.png",
     "Архитектура/Onion (Луковая) архитектура",
-    "Архитектура",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
     "_resource/_files/Pasted image 20241110231110.png",
