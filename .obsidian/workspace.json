@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Примеры"
             }
+          },
+          {
+            "id": "8682010f87ab2d6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.10.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -291,7 +303,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "d14b10bcec356f91",
+  "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
     "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
     "GoLang/Примеры.md",
