@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Строки/Sprintf.md",
+                "file": "GoLang/Примеры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprintf"
+              "title": "Примеры"
             }
           }
         ],
@@ -307,8 +307,8 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "GoLang/Строки/Строки (String).md",
     "GoLang/Строки/Sprintf.md",
+    "GoLang/Строки/Строки (String).md",
     "GoLang/Примеры.md",
     "GoLang/Строки",
     "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
