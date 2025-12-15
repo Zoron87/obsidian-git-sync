@@ -67,12 +67,14 @@
             "id": "8682010f87ab2d6a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "GoLang/Строки/Sprintf.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.6"
+              "icon": "lucide-file",
+              "title": "Sprintf"
             }
           }
         ],
@@ -305,8 +307,11 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
+    "GoLang/Строки/Строки (String).md",
+    "GoLang/Строки/Sprintf.md",
     "GoLang/Примеры.md",
+    "GoLang/Строки",
+    "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
     "GoLang",
     "Бекенд/Csharp/JsonConverters/Как думать про `ReadJson`.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
@@ -335,12 +340,9 @@
     "IDE/Rider",
     "_inbox/2025-04-21.md",
     "Debug/Горячие клавиши для управления выполнением программы.md",
-    "Debug/DebuggerDisplay.md",
-    "Бекенд/Csharp/Base Csharp/Generic Constraints.md",
     "Debug",
     "Бекенд/Csharp/Base Csharp/Без названия",
     "Функциональное программирование",
-    "Бекенд/Csharp/Асинхронное программирование/Методы",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
