@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOM/OVAL/Структура OVAL definition файлов.md",
+                "file": "BIOM/OVAL/Без названия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Структура OVAL definition файлов"
+              "title": "Без названия"
             }
           }
         ],
@@ -307,8 +307,9 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "GoLang/Примеры.md",
     "BIOM/OVAL/Структура OVAL definition файлов.md",
+    "BIOM/OVAL/Без названия.md",
+    "GoLang/Примеры.md",
     "BIOM/OVAL",
     "BIOM",
     "GoLang/Строки/Sprintf.md",
@@ -341,7 +342,6 @@
     "Unit тестирование/Что такое FluentAssertions.md",
     "IDE/Rider/Горячие клавиши.md",
     "IDE/Rider",
-    "_inbox/2025-04-21.md",
     "Debug",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
