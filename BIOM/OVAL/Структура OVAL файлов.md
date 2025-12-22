@@ -21,4 +21,11 @@
     </win-def:registry_test>
 </tests>
     ```
-Секция <states> / 
+Секция <states> / <win-def:registry_state> - _какое значение ожидается
+```xml
+  <states>
+    <win-def:registry_state id="oval:zxc:ste:1" version="1" comment="Shell contains explorer.exe">
+      <win-def:value datatype="string" operation="pattern match">.*explorer\.exe.*</win-def:value>
+    </win-def:registry_state>
+  </states>
+```
