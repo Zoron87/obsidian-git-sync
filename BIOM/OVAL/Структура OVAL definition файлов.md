@@ -30,4 +30,25 @@
   </states>
 ```
 
-Секция 
+Секция <system_data> / <registry_item> - _фактические значения реестра
+```xml
+<system_data>
+    <win-sys:registry_item id="1" status="exists">
+      <win-sys:hive>HKEY_LOCAL_MACHINE</win-sys:hive>
+      <win-sys:key>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon</win-sys:key>
+      <win-sys:windows_view>64_bit</win-sys:windows_view>
+    </win-sys:registry_item>
+</system_data>
+```
+
+Секция <collected_objects> / <object> - _карта_: какой `object` из OVAL → на какие `registry_item` он ссылается.
+```xml
+  <collected_objects>
+    <object id="oval:zxc:obj:1" version="1" flag="complete">
+      <reference item_ref="88" />
+    </object>
+    <object id="oval:zxc:obj:2" version="1" flag="complete">
+      <reference item_ref="97" />
+    </object>
+  </collected_objects>
+  ```
