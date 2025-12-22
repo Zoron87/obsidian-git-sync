@@ -29,3 +29,5 @@
     </win-def:registry_state>
   </states>
 ```
+
+Секция 
