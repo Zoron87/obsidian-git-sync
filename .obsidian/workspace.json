@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Примеры.md",
+                "file": "BIOM/OVAL/Структура OVAL файлов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Примеры"
+              "title": "Структура OVAL файлов"
             }
           }
         ],
@@ -307,9 +307,12 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
+    "GoLang/Примеры.md",
+    "BIOM/OVAL/Структура OVAL файлов.md",
+    "BIOM/OVAL",
+    "BIOM",
     "GoLang/Строки/Sprintf.md",
     "GoLang/Строки/Строки (String).md",
-    "GoLang/Примеры.md",
     "GoLang/Строки",
     "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
     "GoLang",
@@ -339,10 +342,7 @@
     "IDE/Rider/Горячие клавиши.md",
     "IDE/Rider",
     "_inbox/2025-04-21.md",
-    "Debug/Горячие клавиши для управления выполнением программы.md",
     "Debug",
-    "Бекенд/Csharp/Base Csharp/Без названия",
-    "Функциональное программирование",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
