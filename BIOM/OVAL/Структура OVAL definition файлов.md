@@ -1,3 +1,14 @@
+Секция <system_data> / <registry_item> - _фактические значения реестра
+```xml
+<system_data>
+    <win-sys:registry_item id="1" status="exists">
+      <win-sys:hive>HKEY_LOCAL_MACHINE</win-sys:hive>
+      <win-sys:key>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon</win-sys:key>
+      <win-sys:windows_view>64_bit</win-sys:windows_view>
+    </win-sys:registry_item>
+</system_data>
+```
+
 Секция <objects> / <win-def:registry_object> - какой ключ/значение проверять
 ```xml
 <objects>
@@ -28,17 +39,6 @@
       <win-def:value datatype="string" operation="pattern match">.*explorer\.exe.*</win-def:value>
     </win-def:registry_state>
   </states>
-```
-
-Секция <system_data> / <registry_item> - _фактические значения реестра
-```xml
-<system_data>
-    <win-sys:registry_item id="1" status="exists">
-      <win-sys:hive>HKEY_LOCAL_MACHINE</win-sys:hive>
-      <win-sys:key>SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon</win-sys:key>
-      <win-sys:windows_view>64_bit</win-sys:windows_view>
-    </win-sys:registry_item>
-</system_data>
 ```
 
 Секция <collected_objects> / <object> - карта: какой `object` из OVAL → на какие `registry_item` он ссылается.
