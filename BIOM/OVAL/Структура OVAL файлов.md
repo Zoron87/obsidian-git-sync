@@ -10,4 +10,15 @@
 </objects>
 ```
 
-Секция 
+Секция <tests> / <registry_test> - как проверять (существует / соответствует шаблону)
+```xml
+<tests>
+    <win-def:registry_test id="oval:zxc:tst:1" version="1"
+      check="at least one" check_existence="at_least_one_exists"
+      comment="Winlogon Shell contains explorer.exe">
+      <win-def:object object_ref="oval:zxc:obj:1"/>
+      <win-def:state state_ref="oval:zxc:ste:1"/>
+    </win-def:registry_test>
+</tests>
+    ```
+Секция <states> / 
