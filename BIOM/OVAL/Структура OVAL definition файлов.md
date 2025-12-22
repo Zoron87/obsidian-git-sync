@@ -41,7 +41,7 @@
 </system_data>
 ```
 
-Секция <collected_objects> / <object> - _карта_: какой `object` из OVAL → на какие `registry_item` он ссылается.
+Секция <collected_objects> / <object> - карта: какой `object` из OVAL → на какие `registry_item` он ссылается.
 ```xml
   <collected_objects>
     <object id="oval:zxc:obj:1" version="1" flag="complete">
