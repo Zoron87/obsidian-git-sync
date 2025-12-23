@@ -53,7 +53,9 @@ func main() {
 
 Когда нужно проверить, **содержит ли строка другую строку**, начинается всё с `strings.Contains`. Эта функция возвращает `true`, если подстрока найдена, и `false` — если нет.
 ```go
-import "strings" s := "IronProgrammer" fmt.Println(strings.Contains(s, "Program")) // true 
+import "strings" 
+s := "IronProgrammer" 
+fmt.Println(strings.Contains(s, "Program")) // true 
 fmt.Println(strings.Contains(s, "Coder")) // false
 ```
 
