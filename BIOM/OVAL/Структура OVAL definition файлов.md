@@ -42,6 +42,8 @@
     </win-def:registry_state>
   </states>
 ```
+в OVAL **state — необязателен**. Если state нет, тест превращается в проверку **существования** того, что описано в object.
+Если тест не содержит ссылок на states, атрибут `check` не имеет смысла и игнорируется.
 
 Секция <collected_objects> / <object> - карта: какой `object` из OVAL → на какие `registry_item` он ссылается.
 ```xml
