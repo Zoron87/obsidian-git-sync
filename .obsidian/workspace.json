@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Строки/Строки (String).md",
+                "file": "GoLang/Строки/Строки (Strings).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Строки (String)"
+              "title": "Строки (Strings)"
             }
           }
         ],
@@ -291,7 +291,7 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
     "BIOM/OVAL/Flags.md",
     "BIOM/OVAL/Структура OVAL definition файлов.md",
@@ -301,7 +301,7 @@
     "BIOM/OVAL",
     "BIOM",
     "GoLang/Строки/Sprintf.md",
-    "GoLang/Строки/Строки (String).md",
+    "GoLang/Строки/Строки (Strings).md",
     "GoLang/Строки",
     "Бекенд/Csharp/JsonConverters/Как думать про WriteJson.md",
     "GoLang",
