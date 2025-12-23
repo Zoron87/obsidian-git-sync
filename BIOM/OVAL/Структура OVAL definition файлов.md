@@ -1,4 +1,4 @@
-Секция <system_data> / <registry_item> - _фактические значения реестра
+1. Секция <system_data> / <registry_item> - _фактические значения реестра
 ```xml
 <system_data>
     <win-sys:registry_item id="1" status="exists">
@@ -9,7 +9,7 @@
 </system_data>
 ```
 
-Секция <objects> / <win-def:registry_object> - какой ключ/значение проверять
+2. Секция <objects> / <win-def:registry_object> - какой ключ/значение проверять
 ```xml
 <objects>
     <win-def:registry_object id="oval:zxc:obj:1" version="1"
@@ -23,7 +23,7 @@
 т.е. OVAL говорит: “какие конкретно реестровые штуки мне важны/нужны” и прямо задаем “ключ+имя значения”, которое потом будет искать.
 
 
-Секция <tests> / <registry_test> - как проверять (существует / соответствует шаблону)
+3. Секция <tests> / <registry_test> - как проверять (существует / соответствует шаблону)
 ```xml
 <tests>
     <win-def:registry_test id="oval:zxc:tst:1" version="1"
@@ -34,7 +34,7 @@
     </win-def:registry_test>
 </tests>
     ```
-Секция <states> / <win-def:registry_state> - _какое значение ожидается
+4. Секция <states> / <win-def:registry_state> - _какое значение ожидается
 ```xml
   <states>
     <win-def:registry_state id="oval:zxc:ste:1" version="1" comment="Shell contains explorer.exe">
@@ -42,10 +42,12 @@
     </win-def:registry_state>
   </states>
 ```
-в OVAL **state — необязателен**. Если state нет, тест превращается в проверку **существования** того, что описано в object.
-Если тест не содержит ссылок на states, атрибут `check` не имеет смысла и игнорируется.
+- в OVAL **state — необязателен**. Если state нет, тест превращается в проверку **существования** того, что описано в object.
+- Если тест не содержит ссылок на states, атрибут `check` не имеет смысла и игнорируется.
+- Общий результат теста определяется тем, выполняется ли `check_existence`
+- То есть: **без state движок не проверяет “равно ли 1/соответствует ли regex”** — он проверяет только “есть ли такая сущность вообще”.
 
-Секция <collected_objects> / <object> - карта: какой `object` из OVAL → на какие `registry_item` он ссылается.
+5.Секция <collected_objects> / <object> - карта: какой `object` из OVAL → на какие `registry_item` он ссылается.
 ```xml
   <collected_objects>
     <object id="oval:zxc:obj:1" version="1" flag="complete">
