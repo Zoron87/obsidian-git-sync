@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GoLang/Примеры.md",
+                "file": "GoLang/Символы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Примеры"
+              "title": "Символы"
             }
           }
         ],
@@ -293,10 +293,10 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "GoLang/Символы.md",
-    "GoLang/Строки/Строки (Strings).md",
     "GoLang/Строки/Sprintf.md",
+    "GoLang/Строки/Строки (Strings).md",
     "GoLang/Примеры.md",
+    "GoLang/Символы.md",
     "BIOM/OVAL/Flags.md",
     "BIOM/OVAL/Структура OVAL definition файлов.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
