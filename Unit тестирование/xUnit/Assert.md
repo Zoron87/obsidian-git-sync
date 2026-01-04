@@ -56,5 +56,17 @@ Assert.Collection(
 `Assert.All(collection, item => ...)` 
 ```
 
-## Исключения (Assert.Throws<T>)
+# Исключения (Assert.Throws<T)
+```csharp
+Assert.Throws<DivideByZeroException>(() => Calculator.Divide(10, 0));
+```
+В xUnit есть перегрузки Throws, которые проверяют имя параметра у `ArgumentException`-наследников:
+```csharp
+Assert.Throws<ArgumentException>("email", () => NormalizeEmail(null!));
+```
 
+## Async (ThrowsAsync)
+
+```csharp
+Assert.ThrowsAsync<T>(...)
+```
