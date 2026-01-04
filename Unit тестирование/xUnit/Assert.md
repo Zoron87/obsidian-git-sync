@@ -1,5 +1,12 @@
 ## Строки:
+
 ```csharp
+// Вместо ручных `Contains` и т.п. лучше использовать строковые assert’ы:  
+- `Assert.Contains(sub, str)`  
+- `Assert.StartsWith(prefix, str)`  
+- `Assert.Matches(regex, str)`  
+//Это повышает выразительность теста.
+
 // читается однозначно и даёт понятную диагностику при падении.
 Assert.Equal(expected, actual)` 
 ```
@@ -20,10 +27,34 @@ Assert.IsType<T>(obj)
 //  одна и та же ссылка (reference equality), а не “одинаковые значения”.
 `Assert.Same(a, b)`
 ```
-
 ## Числа и диапазоны  
 
 ```csharp
 // — когда важен диапазон (например, проценты, лимиты).
 Assert.InRange(value, min, max)` 
 ```
+## Коллекции
+```csharp
+// сравнивает элементы по порядку (это удобно для массивов/списков).
+`Assert.Equal(expectedEnumerable, actualEnumerable)` 
+```
+
+## Assert.Collection — когда хочешь точечно проверить структур
+```csharp
+Assert.Collection(
+    result,
+    first => Assert.Equal(10, first),
+    second => Assert.Equal(7, second),
+    third => Assert.Equal(3, third)
+);
+```
+Это спасает от «assertion roulette» (много непонятных assert’ов подряд), потому что структура ожиданий видна сразу. 
+
+## Assert.All / Assert.Contains
+```csharp
+// проверка инварианта для каждого элемента
+`Assert.All(collection, item => ...)` 
+```
+
+## Исключения (Assert.Throws<T>)
+
