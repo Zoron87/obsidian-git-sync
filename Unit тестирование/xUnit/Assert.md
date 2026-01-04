@@ -39,7 +39,7 @@ Assert.InRange(value, min, max)`
 `Assert.Equal(expectedEnumerable, actualEnumerable)` 
 ```
 
-## Assert.Collection — когда хочешь точечно проверить структур
+## Assert.Collection — когда хочешь точечно проверить структуру
 ```csharp
 Assert.Collection(
     result,
