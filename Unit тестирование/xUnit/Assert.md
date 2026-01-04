@@ -8,7 +8,13 @@
 //Это повышает выразительность теста.
 
 // указываем ожидаемый результат и фактический 
-Assert.Equal(expected, actual)` 
+Assert.Equal(expected, actual)`
+ 
+//А если сравнение должно быть **без учёта регистра**, всё равно предпочитаем `Equal`, но с comparer/опцией:
+
+`Assert.Equal("user@mail.com", actual, ignoreCase: true); 
+// или 
+Assert.Equal("user@mail.com", actual, StringComparer.OrdinalIgnoreCase);`
 ```
 
 ```csharp
