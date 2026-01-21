@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit тестирование/xUnit/Assert.md",
+                "file": "Git/Заливка нового проекта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assert"
+              "title": "Заливка нового проекта"
             }
           }
         ],
@@ -293,8 +293,13 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "GoLang/Примеры.md",
+    "Git/Команды git.md",
+    "Git/Заливка нового проекта.md",
+    "Git/Отмена изменений.md",
+    "Git/Перемещение по веткам Git.md",
+    "Git/Привязка локального репозитория к удаленному.md",
     "Unit тестирование/xUnit/Assert.md",
+    "GoLang/Примеры.md",
     "Unit тестирование/xUnit",
     "GoLang/Символы.md",
     "GoLang/Строки/Строки (Strings).md",
@@ -322,12 +327,7 @@
     "Бекенд/Csharp/Асинхронное программирование/Класс Monitor низкоуровневый механизм синхронизации.md",
     "Бекенд/Csharp/Конкурентное программирование",
     "Бекенд/Csharp/Reflection/Динамическое создание Generic-типов через рефлексию.md",
-    "Бекенд/Csharp/Reflection/Вызов приватных методов через рефлексию.md",
-    "Бекенд/Csharp/Reflection/Вызов статических методов через рефлексию.md",
-    "Бекенд/Csharp/Reflection/GetType и typeof().md",
-    "Фронтенд/Ключевые слова let и const.md",
     "Бекенд/Csharp/Reflection",
-    "Фронтенд/Файлы package.json package-lock.json.md",
     "IDE/Rider",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
