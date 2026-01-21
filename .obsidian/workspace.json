@@ -291,8 +291,9 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "8682010f87ab2d6a",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "Docker",
     "Git/Команды git.md",
     "Git/Заливка нового проекта.md",
     "Git/Отмена изменений.md",
@@ -326,7 +327,6 @@
     "Бекенд/Csharp/Асинхронное программирование/Фоновые и активные потоки (Background & Foreground).md",
     "Бекенд/Csharp/Асинхронное программирование/Класс Monitor низкоуровневый механизм синхронизации.md",
     "Бекенд/Csharp/Конкурентное программирование",
-    "Бекенд/Csharp/Reflection/Динамическое создание Generic-типов через рефлексию.md",
     "Бекенд/Csharp/Reflection",
     "IDE/Rider",
     "_resource/_files/Pasted image 20241230231341.png",
