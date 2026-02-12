@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Заливка нового проекта.md",
+                "file": "Git/Добавление нового нугета.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Заливка нового проекта"
+              "title": "Добавление нового нугета"
             }
           }
         ],
@@ -291,11 +291,12 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
+    "Git/Заливка нового проекта.md",
+    "Git/Добавление нового нугета.md",
     "Docker",
     "Git/Команды git.md",
-    "Git/Заливка нового проекта.md",
     "Git/Отмена изменений.md",
     "Git/Перемещение по веткам Git.md",
     "Git/Привязка локального репозитория к удаленному.md",
@@ -328,7 +329,6 @@
     "Бекенд/Csharp/Асинхронное программирование/Класс Monitor низкоуровневый механизм синхронизации.md",
     "Бекенд/Csharp/Конкурентное программирование",
     "Бекенд/Csharp/Reflection",
-    "IDE/Rider",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
