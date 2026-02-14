@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Добавление нового нугета.md",
+                "file": "Бекенд/Csharp/Exceptions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добавление нового нугета"
+              "title": "Exceptions"
             }
           }
         ],
@@ -293,8 +293,9 @@
   },
   "active": "8682010f87ab2d6a",
   "lastOpenFiles": [
-    "Git/Заливка нового проекта.md",
     "Git/Добавление нового нугета.md",
+    "Бекенд/Csharp/Exceptions.md",
+    "Git/Заливка нового проекта.md",
     "Docker",
     "Git/Команды git.md",
     "Git/Отмена изменений.md",
@@ -326,7 +327,6 @@
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку",
     "Бекенд/Csharp/Конкурентное программирование/Что такое конкурентное программирование.md",
     "Бекенд/Csharp/Асинхронное программирование/Фоновые и активные потоки (Background & Foreground).md",
-    "Бекенд/Csharp/Асинхронное программирование/Класс Monitor низкоуровневый механизм синхронизации.md",
     "Бекенд/Csharp/Конкурентное программирование",
     "Бекенд/Csharp/Reflection",
     "_resource/_files/Pasted image 20241230231341.png",
