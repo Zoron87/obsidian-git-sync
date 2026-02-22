@@ -1,6 +1,31 @@
 Для того, чтобы скомпилировать доработанную сборку OpenSCAP 1.3.7 под Astra 1.8 необходимо:
 
-1. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
+1. Установить базовые инструменты для сборки:
+```bash
+sudo apt install -y build-essential cmake git python3-pip pkg-config
+```
+
+2. # Системные зависимости OpenSCAP (согласно CMakeLists.txt) 
+   libapt-pkg-dev нужен для dpkginfo probe 
+   ibrpm-dev нужен для rpminfo probe (даже на Debian/Astra это полезно для сканирования rpm-файлов) 
+   ```bash
+   apt install -y \
+    libacl1-dev \
+    libblkid-dev \
+    libcap-dev \
+    libselinux1-dev \
+    libgcrypt20-dev \
+    libgpg-error-dev \
+    libpopt-dev \
+    libdbus-1-dev \
+    libbz2-dev \
+    libapt-pkg-dev \
+    libyaml-dev \
+    librpm-dev \
+    libxml2-utils
+   ```
+
+3. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
 ```c++
 set(CONAN_PACKAGES_LIST boost/1.86.0
                         libxml2/2.13.4
@@ -13,6 +38,7 @@ set(CONAN_PACKAGES_LIST boost/1.86.0
                         libcurl/8.10.1
 )
 ```
+
 
 2. На строке 66 удалить строку:
 ```c++
@@ -27,8 +53,7 @@ libssh:disable_export_symbols=True
 
 ### Инструкция по исправлению:
 
-1.  **Открой файл с ошибкой в редакторе:**
-    (Ты сейчас находишься в папке `build`, поэтому путь указываем через `../`)
+1.  **Открой файл в редакторе:**
 
     ```bash
     nano ../src/OVAL/results/oval_cmp_evr_string.c
