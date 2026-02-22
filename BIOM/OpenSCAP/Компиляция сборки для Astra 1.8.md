@@ -105,10 +105,14 @@ git clone --depth=1 https://github.com/OpenSCAP/yaml-filter.git yaml-filter
     -DENABLE_PYTHON3=OFF \
     -DENABLE_PERL=OFF
 	```
-Данный процесс весь длительный и может занять от 10 до 40+ минут
+
+При необходимости можно добавить параметра
+-DENABLE_OSCAP_UTIL_DOCKER=OFF  - отключение опции сканирования образов докер
 
 2. Компиляция `
 	```bash
 	# -j$(nproc) использует все ядра процессора 
 	make -j$(nproc)
 	``` 
+Данный процесс  длительный и может занять от 10 до 40+ минут
+
