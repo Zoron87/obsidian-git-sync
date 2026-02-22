@@ -107,7 +107,7 @@ git clone --depth=1 https://github.com/OpenSCAP/yaml-filter.git yaml-filter
 	```
 
 При необходимости можно добавить параметра
--DENABLE_OSCAP_UTIL_DOCKER=OFF  - отключение опции сканирования образов докер
+-DENABLE_OSCAP_UTIL_DOCKER=OFF  - отключение утилиты oscap-docker сканирования образов и докер и контейнеров напрямую.
 
 2. Компиляция `
 	```bash
