@@ -50,6 +50,7 @@ set(CONAN_PACKAGES_LIST boost/1.86.0
                         libxslt/1.1.42
                         zlib/1.3.1
                         pcre/8.45
+                        xmlsec/1.3.4
                         libssh/0.10.6
                         libcurl/8.10.1
 )
@@ -91,3 +92,6 @@ libssh:disable_export_symbols=True
     -DENABLE_PYTHON3=OFF \
     -DENABLE_PERL=OFF
 	```
+Данный процесс весь длительный и может занять от 10 до 40+ минут
+
+2. Компиляция ```bash # -j$(nproc) использует все ядра процессора make -j$(nproc)
