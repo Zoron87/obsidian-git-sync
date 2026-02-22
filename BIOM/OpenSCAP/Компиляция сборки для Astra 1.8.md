@@ -18,6 +18,7 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
     libbz2-dev libapt-pkg-dev libyaml-dev librpm-dev libxml2-utils \
     python3-pip python3-venv
    ```
+P.S.  *.-dev пакеты возможны и не нужны, т.к. Conan скачает свои нужные пакеты
 
 3. Судя по CMakeLists необходимо установить также и менеджер пакетов - Conan 1.x
 	Ставим любой имеющий до версии 2.x (т.к .там уже принципиальные отличия)
