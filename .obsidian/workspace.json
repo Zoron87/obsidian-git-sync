@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIOM/OVAL/Улучшения для конвертера.md",
+                "file": "BIOM/OpenSCAP/Компиляция сборки для Astra 1.8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Улучшения для конвертера"
+              "title": "Компиляция сборки для Astra 1.8"
             }
           }
         ],
@@ -305,8 +305,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "b81b5dabc5505f17",
+  "active": "43b02da555cab8df",
   "lastOpenFiles": [
+    "BIOM/OVAL/Улучшения для конвертера.md",
+    "BIOM/OpenSCAP/Компиляция сборки для Astra 1.8.md",
     "BIOM/OpenSCAP",
     "OS",
     "Git/Добавление нового нугета.md",
@@ -326,7 +328,6 @@
     "BIOM/OVAL/Flags.md",
     "BIOM/OVAL/Структура OVAL definition файлов.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку/Без названия.md",
-    "BIOM/OVAL/Улучшения для конвертера.md",
     "BIOM/OVAL",
     "BIOM",
     "GoLang/Строки",
@@ -342,7 +343,6 @@
     "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку",
     "Бекенд/Csharp/Конкурентное программирование/Что такое конкурентное программирование.md",
-    "Бекенд/Csharp/Конкурентное программирование",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
