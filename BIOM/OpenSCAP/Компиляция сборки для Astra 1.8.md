@@ -113,8 +113,11 @@ git clone --depth=1 https://github.com/OpenSCAP/yaml-filter.git yaml-filter
     -DENABLE_PERL=OFF
 	```
 
-При необходимости можно добавить параметра
--DENABLE_OSCAP_UTIL_DOCKER=OFF  - отключение утилиты oscap-docker сканирования образов и докер и контейнеров напрямую.
+При необходимости можно добавить параметр
+```bash 
+-DENABLE_OSCAP_UTIL_DOCKER=OFF 
+``` 
+-отключение утилиты oscap-docker сканирования образов и докер и контейнеров напрямую.
 
 2. Компиляция `
 	```bash
@@ -123,3 +126,13 @@ git clone --depth=1 https://github.com/OpenSCAP/yaml-filter.git yaml-filter
 	``` 
 Данный процесс  длительный и может занять от 10 до 40+ минут
 
+
+#3. Готовим проект к переносу
+
+```bash
+rm -rf /tmp/openscap-root  
+mkdir -p /tmp/openscap-root  
+DESTDIR=/tmp/openscap-root cmake --install .
+```
+
+и далее архивируем и переносим на нужный хост
