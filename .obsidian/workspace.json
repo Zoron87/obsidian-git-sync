@@ -67,12 +67,14 @@
             "id": "43b02da555cab8df",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "BIOM/OVAL/Улучшения для конвертера.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.7"
+              "icon": "lucide-file",
+              "title": "Улучшения для конвертера"
             }
           }
         ],
@@ -303,8 +305,10 @@
       "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "43b02da555cab8df",
+  "active": "b81b5dabc5505f17",
   "lastOpenFiles": [
+    "BIOM/OpenSCAP",
+    "OS",
     "Git/Добавление нового нугета.md",
     "Бекенд/Csharp/Exceptions.md",
     "Git/Заливка нового проекта.md",
@@ -338,9 +342,7 @@
     "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
     "Бекенд/Csharp/Асинхронное программирование/Вопросы на проверку",
     "Бекенд/Csharp/Конкурентное программирование/Что такое конкурентное программирование.md",
-    "Бекенд/Csharp/Асинхронное программирование/Фоновые и активные потоки (Background & Foreground).md",
     "Бекенд/Csharp/Конкурентное программирование",
-    "Бекенд/Csharp/Reflection",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
