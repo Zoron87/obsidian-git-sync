@@ -27,13 +27,13 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
     libxml2-utils
    ```
 
-3. Судя по CMakeLists необходимо установить также и Conan 1.x
+3. Судя по CMakeLists необходимо установить также и менеджер пакетов - Conan 1.x
 	Ставим любой имеющий до версии 2.x (т.к .там уже принципиальные отличия)
 	```bash
 	pip3 install "conan<2.0"
 	```
 
-если установка не идет, добавить опцию **--break-system-packages**
+если установка не идет и сборка идет на тестовом стенде, то можно  добавить опцию **--break-system-packages**
 
 После установки убеждаемся, что встал Conan 1.x
 ```bash
@@ -94,4 +94,8 @@ libssh:disable_export_symbols=True
 	```
 Данный процесс весь длительный и может занять от 10 до 40+ минут
 
-2. Компиляция ```bash # -j$(nproc) использует все ядра процессора make -j$(nproc)
+2. Компиляция `
+	```bash
+	# -j$(nproc) использует все ядра процессора 
+	make -j$(nproc)
+	``` 
