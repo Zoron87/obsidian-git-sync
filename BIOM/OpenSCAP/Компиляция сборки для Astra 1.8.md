@@ -47,6 +47,12 @@ conan --version
 ```
 ![[Pasted image 20260222210740.png]]
 
+и настроим профиль Conan 
+ ```bash 
+conan profile new default --detect 
+conan profile update settings.compiler.libcxx=libstdc++11 default 
+ ```
+
 4. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
 ```c++
 set(CONAN_PACKAGES_LIST boost/1.86.0
