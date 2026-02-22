@@ -11,20 +11,12 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
    libapt-pkg-dev нужен для dpkginfo probe 
    librpm-dev нужен для rpminfo probe 
    ```bash
-   apt install -y \
-    libacl1-dev \
-    libblkid-dev \
-    libcap-dev \
-    libselinux1-dev \
-    libgcrypt20-dev \
-    libgpg-error-dev \
-    libpopt-dev \
-    libdbus-1-dev \
-    libbz2-dev \
-    libapt-pkg-dev \
-    libyaml-dev \
-    librpm-dev \
-    libxml2-utils
+  sudo apt update
+  sudo apt install -y build-essential cmake git pkg-config \
+    libacl1-dev libblkid-dev libcap-dev libselinux1-dev \
+    libgcrypt20-dev libgpg-error-dev libpopt-dev libdbus-1-dev \
+    libbz2-dev libapt-pkg-dev libyaml-dev librpm-dev libxml2-utils \
+    python3-pip python3-venv
    ```
 
 3. Судя по CMakeLists необходимо установить также и менеджер пакетов - Conan 1.x
@@ -34,6 +26,19 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
 	```
 
 если установка не идет и сборка идет на тестовом стенде, то можно  добавить опцию **--break-system-packages**
+
+или сделать более безопасно в изолированном окружении:
+```bash
+# Создаем изолированное окружение в папке .venv
+python3 -m venv .venv
+
+# Активируем его (python будет выполняться внутри папки)
+# Выполнять команду каждый раз при открытии нового терминала
+source .venv/bin/activate
+
+# Устанавливаем Conan 
+pip install "conan<2.0"
+```
 
 После установки убеждаемся, что встал Conan 1.x
 ```bash
