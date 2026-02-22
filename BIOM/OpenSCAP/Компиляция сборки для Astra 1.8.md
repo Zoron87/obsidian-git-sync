@@ -80,3 +80,14 @@ libssh:disable_export_symbols=True
 
 
 # 2. Сборка проекта
+
+	1. Запуск CMake 
+	   Отключаем тесты, документацию и возможность запуск Perl и Python
+	```bash
+	cmake .. \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DENABLE_TESTS=OFF \
+    -DENABLE_DOCS=OFF \
+    -DENABLE_PYTHON3=OFF \
+    -DENABLE_PERL=OFF
+	```
