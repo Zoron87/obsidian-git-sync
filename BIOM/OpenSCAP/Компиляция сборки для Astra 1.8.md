@@ -44,7 +44,7 @@ pip install "conan<2.0"
 ```bash
 conan --version
 ```
-![[Pasted image 20260222201549.png]]
+![[Pasted image 20260222210740.png]]
 
 4. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
 ```c++
@@ -84,6 +84,12 @@ libssh:disable_export_symbols=True
     Добавь туда строку:
     `#include <limits.h>`
 
+7. Теперь нужно инициализировать yaml-filter (если в архиве он является файлом или пустой директорией), то
+```bash
+# Удаляем пустой файл и качем сборку с гита
+rm -rf yaml-filter
+git clone --depth=1 https://github.com/OpenSCAP/yaml-filter.git yaml-filter
+```
 
 # 2. Сборка проекта
 
