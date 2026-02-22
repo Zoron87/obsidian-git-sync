@@ -7,7 +7,7 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
 
 2. # Системные зависимости OpenSCAP (согласно CMakeLists.txt) 
    libapt-pkg-dev нужен для dpkginfo probe 
-   ibrpm-dev нужен для rpminfo probe (даже на Debian/Astra это полезно для сканирования rpm-файлов) 
+   librpm-dev нужен для rpminfo probe 
    ```bash
    apt install -y \
     libacl1-dev \
@@ -25,7 +25,10 @@ sudo apt install -y build-essential cmake git python3-pip pkg-config
     libxml2-utils
    ```
 
-3. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
+3. Судя по CMakeLists необходимо установить также и Conan 1.x
+Ставим любой имеющий до версии 2.x (т.к .там уже принципиальные отличия)
+
+4. В файле CMakeLists на строке 53 изменить набор требуемых пакетов (т.к. Conan 1 больше не поддерживается и часть пакетов не скачивается при компиляции)
 ```c++
 set(CONAN_PACKAGES_LIST boost/1.86.0
                         libxml2/2.13.4
