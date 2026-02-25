@@ -136,3 +136,11 @@ DESTDIR=/tmp/openscap-root cmake --install .
 ```
 
 и далее архивируем и переносим на нужный хост
+
+
+# Полезные команды
+
+```bash
+# Проверка наличия и версии пакета в Conan
+conan search -r conancenter "libssh/*"
+```
