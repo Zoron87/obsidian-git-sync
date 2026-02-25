@@ -144,3 +144,16 @@ DESTDIR=/tmp/openscap-root cmake --install .
 # Проверка наличия и версии пакета в Conan
 conan search -r conancenter "libssh/*"
 ```
+
+В процессе скачивания зависимостей с пакетом bzip2 возникли сложности с доступом к сайту репозитория. Решается через замену ссылки на зеркало:
+
+```bash
+# Примерное местоложение ссылки на пакет bzip2
+# Открываем файл в nano и заменяем ссылку на зеркало ниже
+f=~/.conan/data/bzip2/1.0.8/_/_/export/conandata.yml
+cp -a "$f" "$f.bak"
+nano "$f"
+
+на
+https://mirrors.kernel.org/sourceware/bzip2/bzip2-1.0.8.tar.gz
+```
