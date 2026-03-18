@@ -9,6 +9,9 @@ cd msquic
   
 pwsh ./scripts/prepare-machine.ps1  
 pwsh ./scripts/build.ps1 -Config Debug -Arch x64 -Tls openssl
+
+# или Release версию
+pwsh ./scripts/build.ps1 -Config Release -Arch x64 -Tls openssl
 ```
 
 ## Где лежит готовый `msquic.dll`
