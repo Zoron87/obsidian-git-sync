@@ -8,6 +8,11 @@
    ```
 2. Strawberry Perl
 3. Visual Studio 2019/2022 C++ tools
+   Либо полностью Desktop development with C+ или минимум такие компоненты:
+	**MSVC v143 — VS 2022 C++ x64/x86 build tools (Latest)**
+	**C++ CMake tools for Windows**
+	 **Windows 11 SDK (10.0.26100...)**
+
 4. Установить Powershell 7
    ```powershell
   winget install --id Microsoft.PowerShell --source winget
