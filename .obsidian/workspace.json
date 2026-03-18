@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бекенд/Csharp/Exceptions/InvalidOperationException.md",
+                "file": "Git/Clone with submodules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "InvalidOperationException"
+              "title": "Clone with submodules"
             }
           }
         ],
@@ -307,8 +307,9 @@
   },
   "active": "43b02da555cab8df",
   "lastOpenFiles": [
-    "Бекенд/Csharp/Exceptions/ArgumentException.md",
     "Бекенд/Csharp/Exceptions/InvalidOperationException.md",
+    "Git/Clone with submodules.md",
+    "Бекенд/Csharp/Exceptions/ArgumentException.md",
     "Бекенд/Csharp/Exceptions",
     "BIOM/OpenSCAP/Компиляция сборки для Astra 1.8.md",
     "_resource/_files/Pasted image 20260222211116.png",
@@ -345,7 +346,6 @@
     "Паттерны проектирования/Паттерн проектирования 'Фасад' (Facade).md",
     "Паттерны проектирования/Паттерн Фабрика.md",
     "Архитектура/Отличия Cohesion и Coupling.md",
-    "Бекенд/Csharp/Reflection/Шпаргалка по рефлексии.md",
     "_resource/_files/Pasted image 20241230231341.png",
     "_resource/_files/Pasted image 20241116153207.png",
     "_resource/_files/Pasted image 20241115210454.png",
