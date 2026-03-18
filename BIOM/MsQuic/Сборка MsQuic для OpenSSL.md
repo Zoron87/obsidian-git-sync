@@ -16,3 +16,8 @@ pwsh ./scripts/build.ps1 -Config Debug -Arch x64 -Tls openssl
 У MsQuic build output идёт в `artifacts`, и в документации прямо указан шаблон:
 
 ./artifacts/bin/{platform}/{arch}_{config}_{tls}
+
+Вполне возможно, что понадобится забрать не только dll файл, а и его OpenSSL-зависимости.
+
+Либо можно попробовать забрать dll библиотеку из готовой сборки
+https://www.nuget.org/packages/Microsoft.Native.Quic.MsQuic.OpenSSL
