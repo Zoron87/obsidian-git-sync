@@ -58,7 +58,7 @@ git push origin fix/895640-cherry-pick-fix
 ```
 
 # Шаг 6. Создание PR
-Теперь в Azure создаем Pull Request с выбором в
+Теперь в Azure создаем Pull Request с выбором ветки релиза release/release_v2.0.1
 
 # FAQ
 1. Отмена cherry-pick
