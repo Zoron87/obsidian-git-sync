@@ -63,3 +63,10 @@ git push origin fix/895640-cherry-pick-fix
 ```bash
 git cherry-pick --abort
 ```
+
+2. Чтобы вернуть локальную ветку релиза в исходное состояние (как на сервере), сделай: 
+```bash
+git checkout release/release_v2.0.1 
+git reset --hard origin/release/release_v2.0.1 
+```
+   
