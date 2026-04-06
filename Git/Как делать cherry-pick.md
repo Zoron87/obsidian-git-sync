@@ -30,3 +30,19 @@ git checkout release_v2.0.1
 ```bash 
 git pull origin release_v2.0.1 
 ```
+
+### Шаг 4: Делаем Cherry-pick 
+ 1. Выполни команду: 
+ ```bash   
+ git cherry-pick e7f8g9h 
+ ```
+
+ (Вместо `e7f8g9h` вставь свой хеш, который скопировал на Шаге 2)
+
+### Шаг 5: Отправка на сервер
+Коммит теперь приклеен локально к ветке `release_v2.0.1`. 
+Осталось отправить его в репо. 
+1. Выполни: 
+```bash 
+git push origin release_v2.0.1
+
