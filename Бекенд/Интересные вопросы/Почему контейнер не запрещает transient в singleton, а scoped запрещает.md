@@ -22,8 +22,20 @@
 
 Если тебе реально нужен новый transient каждый цикл, делай resolve внутри scope/операции:
 
-```
-protected override async Task ExecuteAsync(CancellationToken stoppingToken){    while (!stoppingToken.IsCancellationRequested)    {        await using var scope = _scopeFactory.CreateAsyncScope();        var processor = scope.ServiceProvider            .GetRequiredService<InvoiceProcessor>();        await processor.ProcessAsync(stoppingToken);        await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);    }}
+```C#
+protected override async Task ExecuteAsync(CancellationToken stoppingToken)
+{    
+	while (!stoppingToken.IsCancellationRequested)    
+		{        
+			await using var scope = _scopeFactory.CreateAsyncScope();        
+			
+			var processor = scope.ServiceProvider.
+			GetRequiredService<InvoiceProcessor>();      
+			
+			await processor.ProcessAsync(stoppingToken);        
+			await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);    
+		}
+}
 ```
 
 Тогда на каждой итерации:
