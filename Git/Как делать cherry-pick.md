@@ -8,6 +8,8 @@
 2. Выполни команду: 
 ```bash
 git fetch --all 
+если не сработало, то можно команду
+git log --oneline -n 10 
 ```
 
 
@@ -36,7 +38,7 @@ git checkout release/release_v2.0.1
 git pull origin release/release_v2.0.1 
 
 # Создаем от неё новую ветку для PR (назови её по номеру задачи) 
-git checkout -b fix/895640-cherry-pick-fix
+git checkout -b <user>/895640-cherry-pick-fix
 ``` 
 
 *Теперь ты стоишь в новой ветке, которая является точной копией релиза.*
