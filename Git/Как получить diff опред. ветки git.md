@@ -3,19 +3,25 @@
 
 Сначала обнови данные с сервера:
 
-```
+``` C#
 git fetch origin
+```
+
+Переключиться на опред. ветку
+
+``` C#
+git switch pr-123
 ```
 
 Вывести все изменения PR в консоль:
 
-```
+``` C#
 git --no-pager diff --no-color origin/main...origin/feature/task
 ```
 
 Сохранить в файл:
 
-```
+``` C#
 git diff --no-color --output=pr.diff origin/main...origin/feature/task
 ```
 
